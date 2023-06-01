@@ -34,7 +34,7 @@ public class RetailOrderPage extends BaseSetup {
 	public WebElement addToCartBttn;
 
 	//select[@class='product__select']
-	@FindBy(css ="#root > div.main-container > div:nth-child(1) > div.bg-gray-100 > div > div.product__layout > div.product__cart > div > div > select")
+	@FindBy(xpath ="/html/body/div/div[1]/div[1]/div[3]/div/div[1]/div[3]/div/div/select")
 	public WebElement quantityOption;
 	
 	@FindBy(xpath ="//a[@id='orderLink']")
