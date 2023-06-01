@@ -1,0 +1,5 @@
+ui:
+  browser: chrome
+  headless: true
+  url: https://tek-retail-ui.azurewebsites.net/
+  
