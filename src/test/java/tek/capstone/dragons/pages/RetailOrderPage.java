@@ -46,7 +46,8 @@ public class RetailOrderPage extends BaseSetup {
 	@FindBy(css ="button#cancelBtn")
 	public WebElement cancelOrderBttn;
 	
-	@FindBy(xpath ="//div//p[text()='Apex Legends - 1,000 Apex Coins']")
+	//div//p[text()='Apex Legends - 1,000 Apex Coins']
+	@FindBy(xpath ="//*[@id=\"root\"]/div[1]/div[1]/div[3]/div/div/p[1]")
 	public WebElement itemKasaOutdoor2;
 	
 	@FindBy(xpath = "//div[@id='cartBtn']")
