@@ -34,6 +34,7 @@ public class RetailOrderSteps extends CommonUtility {
 
 	@When("User click on item")
 	public void userClickOnItem() {
+		slowDown();
 		click(factory.retailorderpage().itemKasaOutdoor);
 		logger.info("User clicked the item successfully");
 
@@ -41,6 +42,7 @@ public class RetailOrderSteps extends CommonUtility {
 
 	@When("User select quantity {string}")
 	public void userSelectQuantity(String string) {
+		slowDown();
 		selectByValue(factory.retailorderpage().quantityOption, string);
 		logger.info(string + " was selected");
 	}
