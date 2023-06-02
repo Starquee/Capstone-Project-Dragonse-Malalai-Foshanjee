@@ -7,7 +7,7 @@ Feature: Retail Order Page
 
   @AddItrmToCard @Regression
   Scenario: Verify User can add an item to cart
-    And User enter email 'malal.foshanjee7@tekschool.us' and password 'Malal@123'
+    And User enter email 'malal.foshanjee8@tekschool.us' and password 'Malal@123'
     And User click on login button
     And User should be logged in into Account
     #And User click on Orders section

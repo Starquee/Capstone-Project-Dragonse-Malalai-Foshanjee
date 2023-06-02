@@ -49,6 +49,7 @@ public class RetailOrderSteps extends CommonUtility {
 
 	@When("User click add to Cart button")
 	public void userClickAddToCartButton() {
+		slowDown();
 		click(factory.retailorderpage().addToCartBttn);
 		logger.info("User added to cart successfully");
 	}

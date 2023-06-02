@@ -8,7 +8,7 @@ Feature: Sign in/Sign Up Features
 
   @SignInRetail @Regression
   Scenario: Verify user can sign in into Retail Application
-    And User enter email 'malal.foshanjee@tekschool.us' and password 'malal@123'
+    And User enter email 'malal.foshanjee8@tekschool.us' and password 'malal@123'
     And User click on login button
 
   @CreateAccountRetail @Regression
@@ -16,5 +16,5 @@ Feature: Sign in/Sign Up Features
     And User click on Create New Account button
     And User fill the signUp information with below data
       | name    | email                          | password  | confirmPassword |
-      | Malalai | malal.Gfoshanjee123456@tekschool.us | Malal@123 | Malal@123       |
+      | Malalai | malal.Gfoshanjee89@tekschool.us | Malal@123 | Malal@123       |
     And User click on SignUp button
