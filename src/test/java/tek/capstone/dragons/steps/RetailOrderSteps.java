@@ -111,12 +111,12 @@ public class RetailOrderSteps extends CommonUtility {
 		click(factory.retailorderpage().addToCartBttn);
 		logger.info("User added to cart successfully");
 	}
-
-	@When("User select quantity ordering {string}")
-	public void userSelectQuantityAdding(String Quantity) {
-		selectByVisibleText(factory.retailorderpage().quantitySelectDropdown, "5");
-		logger.info(Quantity + " number of item was selected");
-	}
+//
+//	@When("User select quantity ordering {string}")
+//	public void userSelectQuantityAdding(String Quantity) {
+//		selectByVisibleText(factory.retailorderpage().quantitySelectDropdown, "5");
+//		logger.info(Quantity + " number of item was selected");
+//	}
 
 	@Then("the cart icon quantity should be change to {string}")
 	public void theCartIconQuantityShouldBeChangeTo(String quantity) {

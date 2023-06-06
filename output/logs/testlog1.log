@@ -5609,3 +5609,48 @@
 2023-06-05 23:33:01,031 [main] INFO logger_file - User was able to click on Proceed to Checkout button successfully
 2023-06-05 23:33:01,317 [main] INFO logger_file - Place your order button was clicked
 2023-06-05 23:33:01,380 [main] INFO logger_file -  Payment Method added successfully
+2023-06-05 23:57:26,524 [main] INFO logger_file - User is on retail website
+2023-06-05 23:57:27,043 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 23:57:27,369 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 23:57:27,369 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 23:57:27,676 [main] INFO logger_file - user was able to login successfully
+2023-06-05 23:57:27,697 [main] INFO logger_file - User logged in into the account
+2023-06-05 23:57:28,425 [main] INFO logger_file - user was able to change the categgory to Electronics
+2023-06-05 23:57:28,855 [main] INFO logger_file - User was able to search for the item Apex Legends
+2023-06-05 23:57:29,210 [main] INFO logger_file - search button was clicked successfully
+2023-06-05 23:57:29,529 [main] INFO logger_file - Searched item was clicked
+2023-06-05 23:57:34,861 [main] INFO logger_file - 5 was selected
+2023-06-05 23:57:35,155 [main] INFO logger_file - User added to cart successfully
+2023-06-05 23:57:35,157 [main] INFO logger_file - User was able to change the quantity 5
+2023-06-05 23:57:35,559 [main] INFO logger_file - User was able to click on cart option successfully
+2023-06-05 23:57:35,900 [main] INFO logger_file - User was able to click on Proceed to Checkout button successfully
+2023-06-06 00:00:02,640 [main] INFO logger_file - User is on retail website
+2023-06-06 00:00:03,014 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-06 00:00:03,270 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-06 00:00:03,271 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-06 00:00:03,548 [main] INFO logger_file - user was able to login successfully
+2023-06-06 00:00:03,564 [main] INFO logger_file - User logged in into the account
+2023-06-06 00:00:04,220 [main] INFO logger_file - user was able to change the categgory to Electronics
+2023-06-06 00:00:04,560 [main] INFO logger_file - User was able to search for the item Apex Legends
+2023-06-06 00:00:04,830 [main] INFO logger_file - search button was clicked successfully
+2023-06-06 00:00:05,127 [main] INFO logger_file - Searched item was clicked
+2023-06-06 00:00:10,469 [main] INFO logger_file - 5 was selected
+2023-06-06 00:00:10,780 [main] INFO logger_file - User added to cart successfully
+2023-06-06 00:00:10,781 [main] INFO logger_file - User was able to change the quantity 5
+2023-06-06 00:00:11,155 [main] INFO logger_file - User was able to click on cart option successfully
+2023-06-06 00:00:11,499 [main] INFO logger_file - User was able to click on Proceed to Checkout button successfully
+2023-06-06 00:00:11,776 [main] INFO logger_file - Place your order button was clicked
+2023-06-06 00:00:11,859 [main] INFO logger_file -  Payment Method added successfully
+2023-06-06 00:00:45,152 [main] INFO logger_file - User is on retail website
+2023-06-06 00:00:45,545 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-06 00:00:45,803 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-06 00:00:45,804 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-06 00:00:46,077 [main] INFO logger_file - user was able to login successfully
+2023-06-06 00:00:46,082 [main] INFO logger_file - User logged in into the account
+2023-06-06 00:00:46,798 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-06-06 00:00:47,162 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-06-06 00:00:47,416 [main] INFO logger_file - search button was clicked successfully
+2023-06-06 00:00:47,690 [main] INFO logger_file - Searched item was clicked
+2023-06-06 00:00:53,012 [main] INFO logger_file - 2 was selected
+2023-06-06 00:00:53,307 [main] INFO logger_file - User added to cart successfully
+2023-06-06 00:00:53,309 [main] INFO logger_file - User was able to change the quantity 2

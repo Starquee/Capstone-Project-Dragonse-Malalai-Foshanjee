@@ -11,7 +11,7 @@ Feature: Retail Account Page
 
   @UpdateProfile @Regression
   Scenario: Verify User can update Profile Information
-    And User update Name 'Ghawsodin' and Phone '5714555664'
+    And User update Name 'Ghawsodinn' and Phone '5714555664'
     And User click on Update button
     Then user profile information should be updated
 
@@ -30,7 +30,7 @@ Feature: Retail Account Page
     And User click on Edit option of card section
     And user edit information with below data
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 2200771030091245 | RahmatGul   |               9 |           2025 |          550 |
+      | 2200771030091245 | RahmatGull   |               9 |           2025 |          550 |
     And user click on Update Your Card button
     Then a message should be displayed "Payment Method updated Successfully"
 
@@ -53,7 +53,7 @@ Feature: Retail Account Page
     And User click on edit address option
     And user eidt new address form with below information
       | country       | fullName | phoneNumber | streetAddress | apt | city        | state    | zipCode |
-      | United States | Darby Set      |  5714885661 | taxii          |  22 | Alexandaria | Virginia |   22019 |
+      | United States | Darby Seat      |  5714885661 | taxii          |  22 | Alexandaria | Virginia |   22019 |
     And User click update Your Address button
     Then a message should be displayed "Address Updated Successfully"
 
