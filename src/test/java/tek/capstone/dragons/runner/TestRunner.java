@@ -10,7 +10,7 @@ import io.cucumber.junit.CucumberOptions;
 
 	@RunWith(Cucumber.class)
 	@CucumberOptions(
-			tags = "@placeOrder",
+			tags = "@Regression",
 	        features = ("classpath:features"),
 	        glue = "tek.capstone.dragons",
 	        dryRun = false, 

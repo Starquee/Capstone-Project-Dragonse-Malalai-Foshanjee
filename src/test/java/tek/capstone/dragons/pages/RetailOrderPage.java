@@ -123,7 +123,7 @@ public class RetailOrderPage extends BaseSetup {
 	@FindBy(xpath = "//*[@id=\"root\"]/div[1]/div[1]/div[3]/div/div/p[1]")
 	public WebElement clickOnSearchedItem;
 
-	@FindBy(xpath = "/html/body/div/div[1]/div[1]/div[3]/div/div[1]/div[3]/div/div/select")
+	@FindBy(xpath = "//*[@id=\"root\"]/div[1]/div[1]/div[3]/div/div[1]/div[3]/div/div/select")
 	public WebElement quantitySelectDropdown;
 
 	@FindBy(xpath = "//*[@id=\"addToCartBtn\"]/span")
