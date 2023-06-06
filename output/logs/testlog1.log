@@ -3996,3 +3996,1531 @@
 2023-05-31 20:24:25,886 [main] INFO logger_file - New account button was clicked
 2023-05-31 20:24:26,214 [main] INFO logger_file - Registration info entered
 2023-05-31 20:24:26,465 [main] INFO logger_file - Sign up button was clicked
+2023-06-02 01:53:06,989 [main] INFO logger_file - User is on retail website
+2023-06-02 01:53:07,333 [main] INFO logger_file - user click on All section option successfully
+2023-06-02 01:53:10,733 [main] INFO logger_file - User is on retail website
+2023-06-02 01:53:11,047 [main] INFO logger_file - user click on All section option successfully
+2023-06-02 01:53:14,929 [main] INFO logger_file - User is on retail website
+2023-06-02 01:53:15,276 [main] INFO logger_file - user click on All section option successfully
+2023-06-02 01:53:18,764 [main] INFO logger_file - User is on retail website
+2023-06-02 01:53:19,112 [main] INFO logger_file - user click on All section option successfully
+2023-06-02 01:53:22,717 [main] INFO logger_file - User is on retail website
+2023-06-02 01:53:23,078 [main] INFO logger_file - user click on All section option successfully
+2023-06-02 01:53:26,676 [main] INFO logger_file - User is on retail website
+2023-06-02 01:53:27,027 [main] INFO logger_file - user click on All section option successfully
+2023-06-02 01:53:30,508 [main] INFO logger_file - User is on retail website
+2023-06-02 01:53:30,858 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 01:53:31,088 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 01:53:31,088 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 01:53:31,371 [main] INFO logger_file - user was able to login successfully
+2023-06-02 01:53:31,382 [main] INFO logger_file - User logged in into the account
+2023-06-02 01:53:31,748 [main] INFO logger_file - User was able to click on account option
+2023-06-02 01:53:32,023 [main] INFO logger_file - MalalaiAsnahRahmanRR5714885666 user was able to enter the values
+2023-06-02 01:53:55,628 [main] INFO logger_file - User is on retail website
+2023-06-02 01:53:55,907 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 01:53:56,047 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 01:53:56,047 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 01:53:56,294 [main] INFO logger_file - user was able to login successfully
+2023-06-02 01:53:56,296 [main] INFO logger_file - User logged in into the account
+2023-06-02 01:53:57,095 [main] INFO logger_file - User was able to click on account option
+2023-06-02 01:53:57,338 [main] INFO logger_file - User was able to click on account option
+2023-06-02 01:53:57,575 [main] INFO logger_file - User was able to click on add a payment link successfully
+2023-06-02 01:53:58,207 [main] INFO logger_file - Card information has entered successfully
+2023-06-02 01:54:03,481 [main] INFO logger_file - user was able to click on payment submition button
+2023-06-02 01:54:03,492 [main] INFO logger_file -  Payment Method added successfully
+2023-06-02 01:54:06,472 [main] INFO logger_file - User is on retail website
+2023-06-02 01:54:06,782 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 01:54:06,928 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 01:54:06,928 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 01:54:07,186 [main] INFO logger_file - user was able to login successfully
+2023-06-02 01:54:07,192 [main] INFO logger_file - User logged in into the account
+2023-06-02 01:54:07,533 [main] INFO logger_file - User was able to click on account option
+2023-06-02 01:54:08,556 [main] INFO logger_file - edit button was clicked
+2023-06-02 01:54:09,262 [main] INFO logger_file - The information was updated successfully
+2023-06-02 01:54:09,497 [main] INFO logger_file - button was clicked successfully
+2023-06-02 01:54:09,512 [main] INFO logger_file -  Payment Method added successfully
+2023-06-02 01:54:12,406 [main] INFO logger_file - User is on retail website
+2023-06-02 01:54:12,739 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 01:54:12,890 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 01:54:12,890 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 01:54:13,142 [main] INFO logger_file - user was able to login successfully
+2023-06-02 01:54:13,146 [main] INFO logger_file - User logged in into the account
+2023-06-02 01:54:13,930 [main] INFO logger_file - User was able to click on account option
+2023-06-02 01:54:14,455 [main] INFO logger_file - User was able to click on remove button successfully
+2023-06-02 01:54:14,469 [main] INFO logger_file - Card removed successfully
+2023-06-02 01:54:18,293 [main] INFO logger_file - User is on retail website
+2023-06-02 01:54:18,608 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 01:54:18,784 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 01:54:18,784 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 01:54:19,034 [main] INFO logger_file - user was able to login successfully
+2023-06-02 01:54:19,039 [main] INFO logger_file - User logged in into the account
+2023-06-02 01:54:19,352 [main] INFO logger_file - User was able to click on account option
+2023-06-02 01:54:19,605 [main] INFO logger_file - add method option clicked successfully
+2023-06-02 01:54:20,275 [main] INFO logger_file - User was able to add address successfully
+2023-06-02 01:54:20,548 [main] INFO logger_file - the address button was cliked
+2023-06-02 01:54:20,571 [main] INFO logger_file -  Payment Method added successfully
+2023-06-02 01:54:24,430 [main] INFO logger_file - User is on retail website
+2023-06-02 01:54:24,774 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 01:54:24,909 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 01:54:24,909 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 01:54:25,164 [main] INFO logger_file - user was able to login successfully
+2023-06-02 01:54:25,167 [main] INFO logger_file - User logged in into the account
+2023-06-02 01:54:25,998 [main] INFO logger_file - User was able to click on account option
+2023-06-02 01:54:26,251 [main] INFO logger_file - edit address button was clicked successfully
+2023-06-02 01:54:32,004 [main] INFO logger_file - The information has been apdated
+2023-06-02 01:54:32,302 [main] INFO logger_file - The butto was clicked successfully
+2023-06-02 01:54:32,318 [main] INFO logger_file -  Payment Method added successfully
+2023-06-02 01:54:35,291 [main] INFO logger_file - User is on retail website
+2023-06-02 01:54:35,570 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 01:54:35,717 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 01:54:35,717 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 01:54:35,967 [main] INFO logger_file - user was able to login successfully
+2023-06-02 01:54:35,972 [main] INFO logger_file - User logged in into the account
+2023-06-02 01:54:36,300 [main] INFO logger_file - User was able to click on account option
+2023-06-02 01:54:37,046 [main] INFO logger_file - Remove Address button clicked
+2023-06-02 01:54:37,059 [main] INFO logger_file - Address removed
+2023-06-02 01:54:40,829 [main] INFO logger_file - User is on retail website
+2023-06-02 01:54:41,166 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 01:54:41,347 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 01:54:41,347 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 01:54:41,597 [main] INFO logger_file - user was able to login successfully
+2023-06-02 01:54:41,602 [main] INFO logger_file - User logged in into the account
+2023-06-02 01:54:42,179 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-06-02 01:54:42,485 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-06-02 01:54:42,733 [main] INFO logger_file - search button was clicked successfully
+2023-06-02 01:54:47,988 [main] INFO logger_file - User clicked the item successfully
+2023-06-02 01:54:53,256 [main] INFO logger_file - 2 was selected
+2023-06-02 01:54:53,504 [main] INFO logger_file - User added to cart successfully
+2023-06-02 01:54:53,505 [main] INFO logger_file - User was able to change the quantity 2
+2023-06-02 01:54:56,449 [main] INFO logger_file - User is on retail website
+2023-06-02 01:54:56,754 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 01:54:56,889 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 01:54:56,889 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 01:54:57,129 [main] INFO logger_file - user was able to login successfully
+2023-06-02 01:54:57,137 [main] INFO logger_file - User logged in into the account
+2023-06-02 01:54:57,659 [main] INFO logger_file - user was able to change the categgory to Electronics
+2023-06-02 01:54:57,931 [main] INFO logger_file - User was able to search for the item Apex Legends
+2023-06-02 01:54:58,172 [main] INFO logger_file - search button was clicked successfully
+2023-06-02 01:55:21,596 [main] INFO logger_file - User is on retail website
+2023-06-02 01:55:21,878 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 01:55:22,044 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 01:55:22,044 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 01:55:22,283 [main] INFO logger_file - user was able to login successfully
+2023-06-02 01:55:22,285 [main] INFO logger_file - User logged in into the account
+2023-06-02 01:55:23,545 [main] INFO logger_file - User was able to click on orders section
+2023-06-02 01:55:24,306 [main] INFO logger_file - User was able to click on Return Items button successfully
+2023-06-02 01:55:24,820 [main] INFO logger_file - User was able to choose the option successfully
+2023-06-02 01:55:25,300 [main] INFO logger_file - User was able to choose the option successfully
+2023-06-02 01:55:25,532 [main] INFO logger_file - User was able toclick on Return Order button successfully
+2023-06-02 01:55:25,533 [main] INFO logger_file - User was able to see the message
+2023-06-02 01:55:28,985 [main] INFO logger_file - User is on retail website
+2023-06-02 01:55:29,309 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 01:55:29,470 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 01:55:29,471 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 01:55:29,719 [main] INFO logger_file - user was able to login successfully
+2023-06-02 01:55:29,727 [main] INFO logger_file - User logged in into the account
+2023-06-02 01:55:30,009 [main] INFO logger_file - User was able to click on orders section
+2023-06-02 01:55:30,767 [main] INFO logger_file - User was able to click on Cancel The Order successfully
+2023-06-02 01:55:31,265 [main] INFO logger_file - User was able to choose the option successfully
+2023-06-02 01:55:31,504 [main] INFO logger_file - User was able to click on Cancel Order button  successfully
+2023-06-02 01:55:31,506 [main] INFO logger_file - User was able to see the message
+2023-06-02 01:55:35,114 [main] INFO logger_file - User is on retail website
+2023-06-02 01:55:35,424 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 01:55:35,615 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 01:55:35,616 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 01:55:35,856 [main] INFO logger_file - user was able to login successfully
+2023-06-02 01:55:35,860 [main] INFO logger_file - User logged in into the account
+2023-06-02 01:55:36,629 [main] INFO logger_file - User was able to click on orders section
+2023-06-02 01:55:36,915 [main] INFO logger_file - User was able to click on review button successfully
+2023-06-02 01:55:37,531 [main] INFO logger_file - User was able to write review successfully
+2023-06-02 01:55:37,776 [main] INFO logger_file - User was able to add review successfully
+2023-06-02 01:55:38,329 [main] INFO logger_file - User was able to see the message
+2023-06-02 01:55:41,884 [main] INFO logger_file - User is on retail website
+2023-06-02 01:55:42,202 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 01:55:42,209 [main] INFO logger_file - User logged in into the account
+2023-06-02 01:55:42,380 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 01:55:42,380 [main] INFO logger_file - malal@123password was entered successfully
+2023-06-02 01:55:42,628 [main] INFO logger_file - user was able to login successfully
+2023-06-02 01:55:46,264 [main] INFO logger_file - User is on retail website
+2023-06-02 01:55:46,597 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 01:55:46,600 [main] INFO logger_file - User logged in into the account
+2023-06-02 01:55:46,841 [main] INFO logger_file - New account button was clicked
+2023-06-02 01:55:47,105 [main] INFO logger_file - Registration info entered
+2023-06-02 01:55:47,346 [main] INFO logger_file - Sign up button was clicked
+2023-06-02 02:03:13,632 [main] INFO logger_file - User is on retail website
+2023-06-02 02:03:13,960 [main] INFO logger_file - user click on All section option successfully
+2023-06-02 02:03:17,204 [main] INFO logger_file - User is on retail website
+2023-06-02 02:03:17,529 [main] INFO logger_file - user click on All section option successfully
+2023-06-02 02:03:21,293 [main] INFO logger_file - User is on retail website
+2023-06-02 02:03:21,671 [main] INFO logger_file - user click on All section option successfully
+2023-06-02 02:03:25,459 [main] INFO logger_file - User is on retail website
+2023-06-02 02:03:25,797 [main] INFO logger_file - user click on All section option successfully
+2023-06-02 02:03:29,303 [main] INFO logger_file - User is on retail website
+2023-06-02 02:03:29,654 [main] INFO logger_file - user click on All section option successfully
+2023-06-02 02:03:33,094 [main] INFO logger_file - User is on retail website
+2023-06-02 02:03:33,435 [main] INFO logger_file - user click on All section option successfully
+2023-06-02 02:03:36,902 [main] INFO logger_file - User is on retail website
+2023-06-02 02:03:37,226 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 02:03:37,453 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 02:03:37,453 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 02:03:37,722 [main] INFO logger_file - user was able to login successfully
+2023-06-02 02:03:37,724 [main] INFO logger_file - User logged in into the account
+2023-06-02 02:03:38,532 [main] INFO logger_file - User was able to click on account option
+2023-06-02 02:03:38,811 [main] INFO logger_file - MalalaiAsnahRahmanRRR5714885666 user was able to enter the values
+2023-06-02 02:03:39,068 [main] INFO logger_file - User was able to click on update button successfully
+2023-06-02 02:03:39,089 [main] INFO logger_file - User profile information has been upadted
+2023-06-02 02:03:42,454 [main] INFO logger_file - User is on retail website
+2023-06-02 02:03:42,810 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 02:03:42,987 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 02:03:42,987 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 02:03:43,270 [main] INFO logger_file - user was able to login successfully
+2023-06-02 02:03:43,282 [main] INFO logger_file - User logged in into the account
+2023-06-02 02:03:43,601 [main] INFO logger_file - User was able to click on account option
+2023-06-02 02:03:43,845 [main] INFO logger_file - User was able to click on account option
+2023-06-02 02:03:44,101 [main] INFO logger_file - User was able to click on add a payment link successfully
+2023-06-02 02:03:44,781 [main] INFO logger_file - Card information has entered successfully
+2023-06-02 02:03:50,056 [main] INFO logger_file - user was able to click on payment submition button
+2023-06-02 02:03:50,081 [main] INFO logger_file -  Payment Method added successfully
+2023-06-02 02:03:53,589 [main] INFO logger_file - User is on retail website
+2023-06-02 02:03:53,910 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 02:03:54,092 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 02:03:54,092 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 02:03:54,361 [main] INFO logger_file - user was able to login successfully
+2023-06-02 02:03:54,369 [main] INFO logger_file - User logged in into the account
+2023-06-02 02:03:54,718 [main] INFO logger_file - User was able to click on account option
+2023-06-02 02:03:55,719 [main] INFO logger_file - edit button was clicked
+2023-06-02 02:03:56,437 [main] INFO logger_file - The information was updated successfully
+2023-06-02 02:03:56,675 [main] INFO logger_file - button was clicked successfully
+2023-06-02 02:03:56,693 [main] INFO logger_file -  Payment Method added successfully
+2023-06-02 02:03:59,928 [main] INFO logger_file - User is on retail website
+2023-06-02 02:04:00,275 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 02:04:00,422 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 02:04:00,422 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 02:04:00,671 [main] INFO logger_file - user was able to login successfully
+2023-06-02 02:04:00,676 [main] INFO logger_file - User logged in into the account
+2023-06-02 02:04:01,052 [main] INFO logger_file - User was able to click on account option
+2023-06-02 02:04:02,066 [main] INFO logger_file - User was able to click on remove button successfully
+2023-06-02 02:04:02,082 [main] INFO logger_file - Card removed successfully
+2023-06-02 02:04:05,538 [main] INFO logger_file - User is on retail website
+2023-06-02 02:04:05,887 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 02:04:06,110 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 02:04:06,111 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 02:04:06,368 [main] INFO logger_file - user was able to login successfully
+2023-06-02 02:04:06,372 [main] INFO logger_file - User logged in into the account
+2023-06-02 02:04:07,158 [main] INFO logger_file - User was able to click on account option
+2023-06-02 02:04:07,436 [main] INFO logger_file - add method option clicked successfully
+2023-06-02 02:04:08,060 [main] INFO logger_file - User was able to add address successfully
+2023-06-02 02:04:08,362 [main] INFO logger_file - the address button was cliked
+2023-06-02 02:04:08,387 [main] INFO logger_file -  Payment Method added successfully
+2023-06-02 02:04:12,127 [main] INFO logger_file - User is on retail website
+2023-06-02 02:04:12,427 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 02:04:12,631 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 02:04:12,631 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 02:04:12,877 [main] INFO logger_file - user was able to login successfully
+2023-06-02 02:04:12,879 [main] INFO logger_file - User logged in into the account
+2023-06-02 02:04:13,707 [main] INFO logger_file - User was able to click on account option
+2023-06-02 02:04:13,956 [main] INFO logger_file - edit address button was clicked successfully
+2023-06-02 02:04:19,586 [main] INFO logger_file - The information has been apdated
+2023-06-02 02:04:19,865 [main] INFO logger_file - The butto was clicked successfully
+2023-06-02 02:04:19,879 [main] INFO logger_file -  Payment Method added successfully
+2023-06-02 02:04:23,017 [main] INFO logger_file - User is on retail website
+2023-06-02 02:04:23,302 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 02:04:23,444 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 02:04:23,444 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 02:04:23,692 [main] INFO logger_file - user was able to login successfully
+2023-06-02 02:04:23,697 [main] INFO logger_file - User logged in into the account
+2023-06-02 02:04:23,982 [main] INFO logger_file - User was able to click on account option
+2023-06-02 02:04:24,724 [main] INFO logger_file - Remove Address button clicked
+2023-06-02 02:04:24,740 [main] INFO logger_file - Address removed
+2023-06-02 02:04:28,416 [main] INFO logger_file - User is on retail website
+2023-06-02 02:04:28,734 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 02:04:28,898 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 02:04:28,899 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 02:04:29,155 [main] INFO logger_file - user was able to login successfully
+2023-06-02 02:04:29,158 [main] INFO logger_file - User logged in into the account
+2023-06-02 02:04:30,211 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-06-02 02:04:30,513 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-06-02 02:04:30,757 [main] INFO logger_file - search button was clicked successfully
+2023-06-02 02:04:36,004 [main] INFO logger_file - User clicked the item successfully
+2023-06-02 02:04:41,248 [main] INFO logger_file - 2 was selected
+2023-06-02 02:04:41,497 [main] INFO logger_file - User added to cart successfully
+2023-06-02 02:04:41,497 [main] INFO logger_file - User was able to change the quantity 2
+2023-06-02 02:04:44,699 [main] INFO logger_file - User is on retail website
+2023-06-02 02:04:44,974 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 02:04:45,119 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 02:04:45,120 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 02:04:45,370 [main] INFO logger_file - user was able to login successfully
+2023-06-02 02:04:45,374 [main] INFO logger_file - User logged in into the account
+2023-06-02 02:04:45,905 [main] INFO logger_file - user was able to change the categgory to Electronics
+2023-06-02 02:04:46,173 [main] INFO logger_file - User was able to search for the item Apex Legends
+2023-06-02 02:04:46,414 [main] INFO logger_file - search button was clicked successfully
+2023-06-02 02:05:09,630 [main] INFO logger_file - User is on retail website
+2023-06-02 02:05:09,925 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 02:05:10,059 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 02:05:10,059 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 02:05:10,307 [main] INFO logger_file - user was able to login successfully
+2023-06-02 02:05:10,311 [main] INFO logger_file - User logged in into the account
+2023-06-02 02:05:10,581 [main] INFO logger_file - User was able to click on orders section
+2023-06-02 02:05:11,340 [main] INFO logger_file - User was able to click on Return Items button successfully
+2023-06-02 02:05:11,812 [main] INFO logger_file - User was able to choose the option successfully
+2023-06-02 02:05:12,293 [main] INFO logger_file - User was able to choose the option successfully
+2023-06-02 02:05:12,524 [main] INFO logger_file - User was able toclick on Return Order button successfully
+2023-06-02 02:05:12,524 [main] INFO logger_file - User was able to see the message
+2023-06-02 02:05:15,852 [main] INFO logger_file - User is on retail website
+2023-06-02 02:05:16,146 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 02:05:16,349 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 02:05:16,349 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 02:05:16,596 [main] INFO logger_file - user was able to login successfully
+2023-06-02 02:05:16,604 [main] INFO logger_file - User logged in into the account
+2023-06-02 02:05:16,919 [main] INFO logger_file - User was able to click on orders section
+2023-06-02 02:05:17,681 [main] INFO logger_file - User was able to click on Cancel The Order successfully
+2023-06-02 02:05:18,170 [main] INFO logger_file - User was able to choose the option successfully
+2023-06-02 02:05:18,408 [main] INFO logger_file - User was able to click on Cancel Order button  successfully
+2023-06-02 02:05:18,409 [main] INFO logger_file - User was able to see the message
+2023-06-02 02:05:21,817 [main] INFO logger_file - User is on retail website
+2023-06-02 02:05:22,122 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 02:05:22,345 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 02:05:22,346 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 02:05:22,596 [main] INFO logger_file - user was able to login successfully
+2023-06-02 02:05:22,607 [main] INFO logger_file - User logged in into the account
+2023-06-02 02:05:22,910 [main] INFO logger_file - User was able to click on orders section
+2023-06-02 02:05:23,686 [main] INFO logger_file - User was able to click on review button successfully
+2023-06-02 02:05:24,299 [main] INFO logger_file - User was able to write review successfully
+2023-06-02 02:05:24,571 [main] INFO logger_file - User was able to add review successfully
+2023-06-02 02:05:25,137 [main] INFO logger_file - User was able to see the message
+2023-06-02 02:05:28,294 [main] INFO logger_file - User is on retail website
+2023-06-02 02:05:28,584 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 02:05:28,588 [main] INFO logger_file - User logged in into the account
+2023-06-02 02:05:28,756 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 02:05:28,756 [main] INFO logger_file - malal@123password was entered successfully
+2023-06-02 02:05:29,007 [main] INFO logger_file - user was able to login successfully
+2023-06-02 02:05:32,241 [main] INFO logger_file - User is on retail website
+2023-06-02 02:05:32,558 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 02:05:32,561 [main] INFO logger_file - User logged in into the account
+2023-06-02 02:05:32,821 [main] INFO logger_file - New account button was clicked
+2023-06-02 02:05:33,107 [main] INFO logger_file - Registration info entered
+2023-06-02 02:05:33,355 [main] INFO logger_file - Sign up button was clicked
+2023-06-02 02:17:06,196 [main] INFO logger_file - User is on retail website
+2023-06-02 02:17:06,520 [main] INFO logger_file - user click on All section option successfully
+2023-06-02 02:17:10,285 [main] INFO logger_file - User is on retail website
+2023-06-02 02:17:10,616 [main] INFO logger_file - user click on All section option successfully
+2023-06-02 02:17:14,028 [main] INFO logger_file - User is on retail website
+2023-06-02 02:17:14,375 [main] INFO logger_file - user click on All section option successfully
+2023-06-02 02:17:18,048 [main] INFO logger_file - User is on retail website
+2023-06-02 02:17:18,386 [main] INFO logger_file - user click on All section option successfully
+2023-06-02 02:17:21,702 [main] INFO logger_file - User is on retail website
+2023-06-02 02:17:22,011 [main] INFO logger_file - user click on All section option successfully
+2023-06-02 02:17:25,854 [main] INFO logger_file - User is on retail website
+2023-06-02 02:17:26,230 [main] INFO logger_file - user click on All section option successfully
+2023-06-02 02:17:29,821 [main] INFO logger_file - User is on retail website
+2023-06-02 02:17:30,201 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 02:17:30,415 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 02:17:30,416 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 02:17:30,695 [main] INFO logger_file - user was able to login successfully
+2023-06-02 02:17:30,699 [main] INFO logger_file - User logged in into the account
+2023-06-02 02:17:31,505 [main] INFO logger_file - User was able to click on account option
+2023-06-02 02:17:31,732 [main] INFO logger_file - MalalaiAsnahRahmanRRRR5714885664 user was able to enter the values
+2023-06-02 02:17:31,991 [main] INFO logger_file - User was able to click on update button successfully
+2023-06-02 02:17:32,012 [main] INFO logger_file - User profile information has been upadted
+2023-06-02 02:17:35,613 [main] INFO logger_file - User is on retail website
+2023-06-02 02:17:35,939 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 02:17:36,143 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 02:17:36,143 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 02:17:36,404 [main] INFO logger_file - user was able to login successfully
+2023-06-02 02:17:36,412 [main] INFO logger_file - User logged in into the account
+2023-06-02 02:17:36,738 [main] INFO logger_file - User was able to click on account option
+2023-06-02 02:17:36,988 [main] INFO logger_file - User was able to click on account option
+2023-06-02 02:17:37,246 [main] INFO logger_file - User was able to click on add a payment link successfully
+2023-06-02 02:17:37,932 [main] INFO logger_file - Card information has entered successfully
+2023-06-02 02:17:43,188 [main] INFO logger_file - user was able to click on payment submition button
+2023-06-02 02:17:43,205 [main] INFO logger_file -  Payment Method added successfully
+2023-06-02 02:17:46,452 [main] INFO logger_file - User is on retail website
+2023-06-02 02:17:46,739 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 02:17:46,868 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 02:17:46,869 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 02:17:47,110 [main] INFO logger_file - user was able to login successfully
+2023-06-02 02:17:47,116 [main] INFO logger_file - User logged in into the account
+2023-06-02 02:17:47,409 [main] INFO logger_file - User was able to click on account option
+2023-06-02 02:17:48,415 [main] INFO logger_file - edit button was clicked
+2023-06-02 02:17:49,144 [main] INFO logger_file - The information was updated successfully
+2023-06-02 02:17:49,384 [main] INFO logger_file - button was clicked successfully
+2023-06-02 02:17:49,404 [main] INFO logger_file -  Payment Method added successfully
+2023-06-02 02:17:53,222 [main] INFO logger_file - User is on retail website
+2023-06-02 02:17:53,548 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 02:17:53,704 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 02:17:53,705 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 02:17:53,970 [main] INFO logger_file - user was able to login successfully
+2023-06-02 02:17:53,982 [main] INFO logger_file - User logged in into the account
+2023-06-02 02:17:54,324 [main] INFO logger_file - User was able to click on account option
+2023-06-02 02:17:55,326 [main] INFO logger_file - User was able to click on remove button successfully
+2023-06-02 02:17:55,418 [main] INFO logger_file - Card removed successfully
+2023-06-02 02:17:59,394 [main] INFO logger_file - User is on retail website
+2023-06-02 02:17:59,717 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 02:17:59,887 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 02:17:59,887 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 02:18:00,140 [main] INFO logger_file - user was able to login successfully
+2023-06-02 02:18:00,145 [main] INFO logger_file - User logged in into the account
+2023-06-02 02:18:00,954 [main] INFO logger_file - User was able to click on account option
+2023-06-02 02:18:01,220 [main] INFO logger_file - add method option clicked successfully
+2023-06-02 02:18:01,909 [main] INFO logger_file - User was able to add address successfully
+2023-06-02 02:18:02,188 [main] INFO logger_file - the address button was cliked
+2023-06-02 02:18:02,219 [main] INFO logger_file -  Payment Method added successfully
+2023-06-02 02:18:05,933 [main] INFO logger_file - User is on retail website
+2023-06-02 02:18:06,250 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 02:18:06,405 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 02:18:06,406 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 02:18:06,662 [main] INFO logger_file - user was able to login successfully
+2023-06-02 02:18:06,666 [main] INFO logger_file - User logged in into the account
+2023-06-02 02:18:07,020 [main] INFO logger_file - User was able to click on account option
+2023-06-02 02:18:07,786 [main] INFO logger_file - edit address button was clicked successfully
+2023-06-02 02:18:13,439 [main] INFO logger_file - The information has been apdated
+2023-06-02 02:18:13,720 [main] INFO logger_file - The butto was clicked successfully
+2023-06-02 02:18:13,737 [main] INFO logger_file -  Payment Method added successfully
+2023-06-02 02:18:16,850 [main] INFO logger_file - User is on retail website
+2023-06-02 02:18:17,136 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 02:18:17,366 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 02:18:17,367 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 02:18:17,613 [main] INFO logger_file - user was able to login successfully
+2023-06-02 02:18:17,631 [main] INFO logger_file - User logged in into the account
+2023-06-02 02:18:17,974 [main] INFO logger_file - User was able to click on account option
+2023-06-02 02:18:18,731 [main] INFO logger_file - Remove Address button clicked
+2023-06-02 02:18:18,752 [main] INFO logger_file - Address removed
+2023-06-02 02:18:22,100 [main] INFO logger_file - User is on retail website
+2023-06-02 02:18:22,420 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 02:18:22,593 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 02:18:22,593 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 02:18:22,861 [main] INFO logger_file - user was able to login successfully
+2023-06-02 02:18:22,863 [main] INFO logger_file - User logged in into the account
+2023-06-02 02:18:23,903 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-06-02 02:18:24,190 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-06-02 02:18:24,430 [main] INFO logger_file - search button was clicked successfully
+2023-06-02 02:18:29,685 [main] INFO logger_file - User clicked the item successfully
+2023-06-02 02:18:34,942 [main] INFO logger_file - 2 was selected
+2023-06-02 02:18:35,176 [main] INFO logger_file - User added to cart successfully
+2023-06-02 02:18:35,177 [main] INFO logger_file - User was able to change the quantity 2
+2023-06-02 02:18:38,192 [main] INFO logger_file - User is on retail website
+2023-06-02 02:18:38,492 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 02:18:38,608 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 02:18:38,608 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 02:18:38,844 [main] INFO logger_file - user was able to login successfully
+2023-06-02 02:18:38,847 [main] INFO logger_file - User logged in into the account
+2023-06-02 02:18:39,847 [main] INFO logger_file - user was able to change the categgory to Electronics
+2023-06-02 02:18:40,114 [main] INFO logger_file - User was able to search for the item Apex Legends
+2023-06-02 02:18:40,352 [main] INFO logger_file - search button was clicked successfully
+2023-06-02 02:19:03,282 [main] INFO logger_file - User is on retail website
+2023-06-02 02:19:03,578 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 02:19:03,708 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 02:19:03,709 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 02:19:03,952 [main] INFO logger_file - user was able to login successfully
+2023-06-02 02:19:03,956 [main] INFO logger_file - User logged in into the account
+2023-06-02 02:19:04,763 [main] INFO logger_file - User was able to click on orders section
+2023-06-02 02:19:05,009 [main] INFO logger_file - User was able to click on Return Items button successfully
+2023-06-02 02:19:05,493 [main] INFO logger_file - User was able to choose the option successfully
+2023-06-02 02:19:05,972 [main] INFO logger_file - User was able to choose the option successfully
+2023-06-02 02:19:06,217 [main] INFO logger_file - User was able toclick on Return Order button successfully
+2023-06-02 02:19:06,217 [main] INFO logger_file - User was able to see the message
+2023-06-02 02:19:09,430 [main] INFO logger_file - User is on retail website
+2023-06-02 02:19:09,719 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 02:19:09,918 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 02:19:09,919 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 02:19:10,180 [main] INFO logger_file - user was able to login successfully
+2023-06-02 02:19:10,183 [main] INFO logger_file - User logged in into the account
+2023-06-02 02:19:10,995 [main] INFO logger_file - User was able to click on orders section
+2023-06-02 02:19:11,248 [main] INFO logger_file - User was able to click on Cancel The Order successfully
+2023-06-02 02:19:11,741 [main] INFO logger_file - User was able to choose the option successfully
+2023-06-02 02:19:11,980 [main] INFO logger_file - User was able to click on Cancel Order button  successfully
+2023-06-02 02:19:11,980 [main] INFO logger_file - User was able to see the message
+2023-06-02 02:19:15,384 [main] INFO logger_file - User is on retail website
+2023-06-02 02:19:15,707 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 02:19:15,896 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 02:19:15,896 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 02:19:16,166 [main] INFO logger_file - user was able to login successfully
+2023-06-02 02:19:16,181 [main] INFO logger_file - User logged in into the account
+2023-06-02 02:19:16,487 [main] INFO logger_file - User was able to click on orders section
+2023-06-02 02:19:16,730 [main] INFO logger_file - User was able to click on review button successfully
+2023-06-02 02:19:17,359 [main] INFO logger_file - User was able to write review successfully
+2023-06-02 02:19:17,599 [main] INFO logger_file - User was able to add review successfully
+2023-06-02 02:19:18,171 [main] INFO logger_file - User was able to see the message
+2023-06-02 02:19:21,745 [main] INFO logger_file - User is on retail website
+2023-06-02 02:19:22,070 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 02:19:22,075 [main] INFO logger_file - User logged in into the account
+2023-06-02 02:19:22,272 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 02:19:22,273 [main] INFO logger_file - malal@123password was entered successfully
+2023-06-02 02:19:22,525 [main] INFO logger_file - user was able to login successfully
+2023-06-02 02:19:26,182 [main] INFO logger_file - User is on retail website
+2023-06-02 02:19:26,516 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 02:19:26,518 [main] INFO logger_file - User logged in into the account
+2023-06-02 02:19:26,768 [main] INFO logger_file - New account button was clicked
+2023-06-02 02:19:27,041 [main] INFO logger_file - Registration info entered
+2023-06-02 02:19:27,289 [main] INFO logger_file - Sign up button was clicked
+2023-06-02 02:21:41,510 [main] INFO logger_file - User is on retail website
+2023-06-02 02:21:41,896 [main] INFO logger_file - user click on All section option successfully
+2023-06-02 02:21:45,809 [main] INFO logger_file - User is on retail website
+2023-06-02 02:21:46,179 [main] INFO logger_file - user click on All section option successfully
+2023-06-02 02:21:49,642 [main] INFO logger_file - User is on retail website
+2023-06-02 02:21:49,993 [main] INFO logger_file - user click on All section option successfully
+2023-06-02 02:21:53,876 [main] INFO logger_file - User is on retail website
+2023-06-02 02:21:54,234 [main] INFO logger_file - user click on All section option successfully
+2023-06-02 02:21:57,901 [main] INFO logger_file - User is on retail website
+2023-06-02 02:21:58,256 [main] INFO logger_file - user click on All section option successfully
+2023-06-02 02:22:01,653 [main] INFO logger_file - User is on retail website
+2023-06-02 02:22:01,974 [main] INFO logger_file - user click on All section option successfully
+2023-06-02 02:22:05,779 [main] INFO logger_file - User is on retail website
+2023-06-02 02:22:06,112 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 02:22:06,290 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 02:22:06,291 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 02:22:06,554 [main] INFO logger_file - user was able to login successfully
+2023-06-02 02:22:06,562 [main] INFO logger_file - User logged in into the account
+2023-06-02 02:22:06,875 [main] INFO logger_file - User was able to click on account option
+2023-06-02 02:22:07,147 [main] INFO logger_file - MalalaiAsnahRahmanRRRR5714885664 user was able to enter the values
+2023-06-02 02:22:30,531 [main] INFO logger_file - User is on retail website
+2023-06-02 02:22:30,807 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-02 02:22:30,944 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-02 02:22:30,944 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-02 02:22:31,186 [main] INFO logger_file - user was able to login successfully
+2023-06-02 02:22:31,190 [main] INFO logger_file - User logged in into the account
+2023-06-02 02:22:31,489 [main] INFO logger_file - User was able to click on account option
+2023-06-02 02:22:31,725 [main] INFO logger_file - User was able to click on account option
+2023-06-02 02:22:31,969 [main] INFO logger_file - User was able to click on add a payment link successfully
+2023-06-02 02:22:32,621 [main] INFO logger_file - Card information has entered successfully
+2023-06-05 21:23:46,270 [main] INFO logger_file - User is on retail website
+2023-06-05 21:23:46,741 [main] INFO logger_file - user click on All section option successfully
+2023-06-05 21:23:47,166 [main] INFO logger_file - User is on retail website
+2023-06-05 21:23:47,687 [main] INFO logger_file - user click on All section option successfully
+2023-06-05 21:23:52,770 [main] INFO logger_file - User is on retail website
+2023-06-05 21:23:53,245 [main] INFO logger_file - user click on All section option successfully
+2023-06-05 21:23:54,566 [main] INFO logger_file - User is on retail website
+2023-06-05 21:23:55,056 [main] INFO logger_file - user click on All section option successfully
+2023-06-05 21:23:55,387 [main] INFO logger_file - User is on retail website
+2023-06-05 21:23:55,904 [main] INFO logger_file - user click on All section option successfully
+2023-06-05 21:24:00,158 [main] INFO logger_file - User is on retail website
+2023-06-05 21:24:00,671 [main] INFO logger_file - user click on All section option successfully
+2023-06-05 21:24:03,325 [main] INFO logger_file - User is on retail website
+2023-06-05 21:24:03,588 [main] INFO logger_file - User is on retail website
+2023-06-05 21:24:04,135 [main] INFO logger_file - user click on All section option successfully
+2023-06-05 21:24:04,331 [main] INFO logger_file - user click on All section option successfully
+2023-06-05 21:24:07,659 [main] INFO logger_file - User is on retail website
+2023-06-05 21:24:08,159 [main] INFO logger_file - user click on All section option successfully
+2023-06-05 21:24:10,905 [main] INFO logger_file - User is on retail website
+2023-06-05 21:24:11,297 [main] INFO logger_file - user click on All section option successfully
+2023-06-05 21:24:12,674 [main] INFO logger_file - User is on retail website
+2023-06-05 21:24:13,256 [main] INFO logger_file - user click on All section option successfully
+2023-06-05 21:24:15,472 [main] INFO logger_file - User is on retail website
+2023-06-05 21:24:16,011 [main] INFO logger_file - user click on All section option successfully
+2023-06-05 21:24:17,920 [main] INFO logger_file - User is on retail website
+2023-06-05 21:24:18,496 [main] INFO logger_file - user click on All section option successfully
+2023-06-05 21:24:20,465 [main] INFO logger_file - User is on retail website
+2023-06-05 21:24:21,114 [main] INFO logger_file - user click on All section option successfully
+2023-06-05 21:24:22,846 [main] INFO logger_file - User is on retail website
+2023-06-05 21:24:23,286 [main] INFO logger_file - user click on All section option successfully
+2023-06-05 21:24:25,192 [main] INFO logger_file - User is on retail website
+2023-06-05 21:24:25,733 [main] INFO logger_file - user click on All section option successfully
+2023-06-05 21:24:27,715 [main] INFO logger_file - User is on retail website
+2023-06-05 21:24:28,150 [main] INFO logger_file - user click on All section option successfully
+2023-06-05 21:24:30,257 [main] INFO logger_file - User is on retail website
+2023-06-05 21:24:30,859 [main] INFO logger_file - user click on All section option successfully
+2023-06-05 21:24:32,380 [main] INFO logger_file - User is on retail website
+2023-06-05 21:24:32,949 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:24:33,339 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:24:33,340 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:24:33,622 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:24:33,627 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:24:34,112 [main] INFO logger_file - User was able to click on account option
+2023-06-05 21:24:34,538 [main] INFO logger_file - MalalaiAsnahRahmanRRRRA5714885664 user was able to enter the values
+2023-06-05 21:24:34,823 [main] INFO logger_file - User was able to click on update button successfully
+2023-06-05 21:24:34,866 [main] INFO logger_file - User profile information has been upadted
+2023-06-05 21:24:35,271 [main] INFO logger_file - User is on retail website
+2023-06-05 21:24:35,678 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:24:35,951 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:24:35,951 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:24:36,244 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:24:36,252 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:24:36,726 [main] INFO logger_file - User was able to click on account option
+2023-06-05 21:24:37,237 [main] INFO logger_file - MalalaiAsnahRahmanRRRRA5714885664 user was able to enter the values
+2023-06-05 21:24:38,423 [main] INFO logger_file - User is on retail website
+2023-06-05 21:24:38,967 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:24:39,363 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:24:39,363 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:24:39,670 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:24:39,687 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:24:40,133 [main] INFO logger_file - User was able to click on account option
+2023-06-05 21:24:40,593 [main] INFO logger_file - MalalaiAsnahRahmanRRRRA5714885664 user was able to enter the values
+2023-06-05 21:24:42,107 [main] INFO logger_file - User is on retail website
+2023-06-05 21:24:42,617 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:24:43,036 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:24:43,036 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:24:43,326 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:24:43,338 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:24:44,372 [main] INFO logger_file - User was able to click on account option
+2023-06-05 21:24:44,649 [main] INFO logger_file - User was able to click on account option
+2023-06-05 21:24:44,933 [main] INFO logger_file - User was able to click on add a payment link successfully
+2023-06-05 21:24:45,685 [main] INFO logger_file - Card information has entered successfully
+2023-06-05 21:24:51,005 [main] INFO logger_file - user was able to click on payment submition button
+2023-06-05 21:24:51,032 [main] INFO logger_file -  Payment Method added successfully
+2023-06-05 21:24:55,387 [main] INFO logger_file - User is on retail website
+2023-06-05 21:24:55,745 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:24:56,053 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:24:56,053 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:24:56,324 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:24:56,330 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:24:56,779 [main] INFO logger_file - User was able to click on account option
+2023-06-05 21:24:57,862 [main] INFO logger_file - edit button was clicked
+2023-06-05 21:24:58,765 [main] INFO logger_file - The information was updated successfully
+2023-06-05 21:24:59,095 [main] INFO logger_file - button was clicked successfully
+2023-06-05 21:24:59,117 [main] INFO logger_file -  Payment Method added successfully
+2023-06-05 21:25:02,629 [main] INFO logger_file - User is on retail website
+2023-06-05 21:25:03,142 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:25:03,426 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:25:03,427 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:25:03,743 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:25:03,750 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:25:04,665 [main] INFO logger_file - User was able to click on account option
+2023-06-05 21:25:04,894 [main] INFO logger_file - User is on retail website
+2023-06-05 21:25:05,012 [main] INFO logger_file - User was able to click on account option
+2023-06-05 21:25:05,281 [main] INFO logger_file - User was able to click on add a payment link successfully
+2023-06-05 21:25:05,303 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:25:05,703 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:25:05,704 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:25:06,005 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:25:06,022 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:25:06,199 [main] INFO logger_file - Card information has entered successfully
+2023-06-05 21:25:06,872 [main] INFO logger_file - User was able to click on account option
+2023-06-05 21:25:07,417 [main] INFO logger_file - User was able to click on remove button successfully
+2023-06-05 21:25:07,447 [main] INFO logger_file - Card removed successfully
+2023-06-05 21:25:09,033 [main] INFO logger_file - User is on retail website
+2023-06-05 21:25:09,460 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:25:09,837 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:25:09,837 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:25:10,117 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:25:10,122 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:25:10,703 [main] INFO logger_file - User was able to click on account option
+2023-06-05 21:25:11,023 [main] INFO logger_file - User was able to click on account option
+2023-06-05 21:25:11,376 [main] INFO logger_file - User was able to click on add a payment link successfully
+2023-06-05 21:25:11,535 [main] INFO logger_file - user was able to click on payment submition button
+2023-06-05 21:25:11,574 [main] INFO logger_file -  Payment Method added successfully
+2023-06-05 21:25:12,303 [main] INFO logger_file - Card information has entered successfully
+2023-06-05 21:25:14,068 [main] INFO logger_file - User is on retail website
+2023-06-05 21:25:14,442 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:25:14,640 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:25:14,640 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:25:14,910 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:25:14,915 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:25:15,321 [main] INFO logger_file - User was able to click on account option
+2023-06-05 21:25:15,662 [main] INFO logger_file - add method option clicked successfully
+2023-06-05 21:25:16,596 [main] INFO logger_file - User was able to add address successfully
+2023-06-05 21:25:16,946 [main] INFO logger_file - the address button was cliked
+2023-06-05 21:25:16,973 [main] INFO logger_file -  Payment Method added successfully
+2023-06-05 21:25:17,659 [main] INFO logger_file - user was able to click on payment submition button
+2023-06-05 21:25:17,702 [main] INFO logger_file -  Payment Method added successfully
+2023-06-05 21:25:17,706 [main] INFO logger_file - User is on retail website
+2023-06-05 21:25:18,144 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:25:18,455 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:25:18,455 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:25:18,735 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:25:18,743 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:25:19,123 [main] INFO logger_file - User was able to click on account option
+2023-06-05 21:25:20,237 [main] INFO logger_file - edit button was clicked
+2023-06-05 21:25:21,247 [main] INFO logger_file - The information was updated successfully
+2023-06-05 21:25:21,529 [main] INFO logger_file - button was clicked successfully
+2023-06-05 21:25:21,561 [main] INFO logger_file -  Payment Method added successfully
+2023-06-05 21:25:23,169 [main] INFO logger_file - User is on retail website
+2023-06-05 21:25:23,585 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:25:23,895 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:25:23,895 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:25:24,185 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:25:24,193 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:25:24,275 [main] INFO logger_file - User is on retail website
+2023-06-05 21:25:24,642 [main] INFO logger_file - User was able to click on account option
+2023-06-05 21:25:24,748 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:25:25,055 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:25:25,056 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:25:25,360 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:25:25,364 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:25:25,519 [main] INFO logger_file - edit address button was clicked successfully
+2023-06-05 21:25:26,316 [main] INFO logger_file - User was able to click on account option
+2023-06-05 21:25:26,860 [main] INFO logger_file - edit button was clicked
+2023-06-05 21:25:27,189 [main] INFO logger_file - The information was updated successfully
+2023-06-05 21:25:27,444 [main] INFO logger_file - button was clicked successfully
+2023-06-05 21:25:27,460 [main] INFO logger_file -  Payment Method added successfully
+2023-06-05 21:25:28,842 [main] INFO logger_file - User is on retail website
+2023-06-05 21:25:29,278 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:25:29,563 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:25:29,564 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:25:29,861 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:25:29,944 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:25:30,453 [main] INFO logger_file - User was able to click on account option
+2023-06-05 21:25:31,036 [main] INFO logger_file - User was able to click on remove button successfully
+2023-06-05 21:25:31,061 [main] INFO logger_file - Card removed successfully
+2023-06-05 21:25:31,670 [main] INFO logger_file - The information has been apdated
+2023-06-05 21:25:32,051 [main] INFO logger_file - The butto was clicked successfully
+2023-06-05 21:25:32,121 [main] INFO logger_file -  Payment Method added successfully
+2023-06-05 21:25:33,104 [main] INFO logger_file - User is on retail website
+2023-06-05 21:25:33,500 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:25:33,832 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:25:33,832 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:25:34,110 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:25:34,117 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:25:34,596 [main] INFO logger_file - User was able to click on account option
+2023-06-05 21:25:35,687 [main] INFO logger_file - User was able to click on remove button successfully
+2023-06-05 21:25:35,722 [main] INFO logger_file - Card removed successfully
+2023-06-05 21:25:37,512 [main] INFO logger_file - User is on retail website
+2023-06-05 21:25:37,917 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:25:38,257 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:25:38,260 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:25:38,564 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:25:38,570 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:25:38,831 [main] INFO logger_file - User is on retail website
+2023-06-05 21:25:39,288 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:25:39,523 [main] INFO logger_file - User was able to click on account option
+2023-06-05 21:25:39,567 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:25:39,568 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:25:39,851 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:25:39,855 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:25:39,872 [main] INFO logger_file - add method option clicked successfully
+2023-06-05 21:25:40,739 [main] INFO logger_file - User was able to click on account option
+2023-06-05 21:25:41,077 [main] INFO logger_file - User was able to add address successfully
+2023-06-05 21:25:41,379 [main] INFO logger_file - the address button was cliked
+2023-06-05 21:25:41,394 [main] INFO logger_file -  Payment Method added successfully
+2023-06-05 21:25:41,509 [main] INFO logger_file - Remove Address button clicked
+2023-06-05 21:25:41,533 [main] INFO logger_file - Address removed
+2023-06-05 21:25:42,420 [main] INFO logger_file - User is on retail website
+2023-06-05 21:25:42,745 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:25:43,085 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:25:43,086 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:25:43,377 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:25:43,382 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:25:43,851 [main] INFO logger_file - User was able to click on account option
+2023-06-05 21:25:44,176 [main] INFO logger_file - add method option clicked successfully
+2023-06-05 21:25:45,385 [main] INFO logger_file - User was able to add address successfully
+2023-06-05 21:25:45,775 [main] INFO logger_file - the address button was cliked
+2023-06-05 21:25:45,807 [main] INFO logger_file -  Payment Method added successfully
+2023-06-05 21:25:48,010 [main] INFO logger_file - User is on retail website
+2023-06-05 21:25:48,391 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:25:48,836 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:25:48,837 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:25:48,887 [main] INFO logger_file - User is on retail website
+2023-06-05 21:25:49,126 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:25:49,131 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:25:49,296 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:25:49,605 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:25:49,606 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:25:49,950 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:25:49,956 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:25:50,425 [main] INFO logger_file - User was able to click on account option
+2023-06-05 21:25:50,667 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-06-05 21:25:50,710 [main] INFO logger_file - edit address button was clicked successfully
+2023-06-05 21:25:51,015 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-06-05 21:25:51,285 [main] INFO logger_file - search button was clicked successfully
+2023-06-05 21:25:52,579 [main] INFO logger_file - User is on retail website
+2023-06-05 21:25:52,999 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:25:53,269 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:25:53,270 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:25:53,549 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:25:53,567 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:25:54,091 [main] INFO logger_file - User was able to click on account option
+2023-06-05 21:25:54,928 [main] INFO logger_file - edit address button was clicked successfully
+2023-06-05 21:25:56,580 [main] INFO logger_file - User clicked the item successfully
+2023-06-05 21:25:56,596 [main] INFO logger_file - The information has been apdated
+2023-06-05 21:25:56,942 [main] INFO logger_file - The butto was clicked successfully
+2023-06-05 21:25:56,996 [main] INFO logger_file -  Payment Method added successfully
+2023-06-05 21:26:00,914 [main] INFO logger_file - The information has been apdated
+2023-06-05 21:26:01,284 [main] INFO logger_file - The butto was clicked successfully
+2023-06-05 21:26:01,311 [main] INFO logger_file -  Payment Method added successfully
+2023-06-05 21:26:01,395 [main] INFO logger_file - User is on retail website
+2023-06-05 21:26:01,770 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:26:01,887 [main] INFO logger_file - 2 was selected
+2023-06-05 21:26:02,018 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:26:02,018 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:26:02,160 [main] INFO logger_file - User added to cart successfully
+2023-06-05 21:26:02,161 [main] INFO logger_file - User was able to change the quantity 2
+2023-06-05 21:26:02,276 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:26:02,282 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:26:02,698 [main] INFO logger_file - User was able to click on account option
+2023-06-05 21:26:03,465 [main] INFO logger_file - Remove Address button clicked
+2023-06-05 21:26:03,494 [main] INFO logger_file - Address removed
+2023-06-05 21:26:07,558 [main] INFO logger_file - User is on retail website
+2023-06-05 21:26:07,990 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:26:08,264 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:26:08,264 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:26:08,470 [main] INFO logger_file - User is on retail website
+2023-06-05 21:26:08,540 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:26:08,547 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:26:08,802 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:26:08,905 [main] INFO logger_file - User was able to click on account option
+2023-06-05 21:26:09,013 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:26:09,014 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:26:09,300 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:26:09,306 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:26:09,722 [main] INFO logger_file - Remove Address button clicked
+2023-06-05 21:26:09,767 [main] INFO logger_file - Address removed
+2023-06-05 21:26:10,294 [main] INFO logger_file - User is on retail website
+2023-06-05 21:26:10,633 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:26:10,851 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:26:10,852 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:26:10,931 [main] INFO logger_file - user was able to change the categgory to Electronics
+2023-06-05 21:26:11,117 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:26:11,121 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:26:11,253 [main] INFO logger_file - User was able to search for the item Apex Legends
+2023-06-05 21:26:11,532 [main] INFO logger_file - search button was clicked successfully
+2023-06-05 21:26:12,793 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-06-05 21:26:13,221 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-06-05 21:26:13,499 [main] INFO logger_file - search button was clicked successfully
+2023-06-05 21:26:16,037 [main] INFO logger_file - User is on retail website
+2023-06-05 21:26:16,452 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:26:16,766 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:26:16,767 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:26:17,031 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:26:17,041 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:26:17,777 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-06-05 21:26:18,126 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-06-05 21:26:18,379 [main] INFO logger_file - search button was clicked successfully
+2023-06-05 21:26:18,776 [main] INFO logger_file - User clicked the item successfully
+2023-06-05 21:26:23,656 [main] INFO logger_file - User clicked the item successfully
+2023-06-05 21:26:24,112 [main] INFO logger_file - 2 was selected
+2023-06-05 21:26:24,402 [main] INFO logger_file - User added to cart successfully
+2023-06-05 21:26:24,404 [main] INFO logger_file - User was able to change the quantity 2
+2023-06-05 21:26:28,956 [main] INFO logger_file - User is on retail website
+2023-06-05 21:26:28,983 [main] INFO logger_file - 2 was selected
+2023-06-05 21:26:29,242 [main] INFO logger_file - User added to cart successfully
+2023-06-05 21:26:29,243 [main] INFO logger_file - User was able to change the quantity 2
+2023-06-05 21:26:29,279 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:26:29,586 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:26:29,586 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:26:29,857 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:26:29,864 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:26:30,479 [main] INFO logger_file - user was able to change the categgory to Electronics
+2023-06-05 21:26:30,790 [main] INFO logger_file - User was able to search for the item Apex Legends
+2023-06-05 21:26:31,042 [main] INFO logger_file - search button was clicked successfully
+2023-06-05 21:26:33,863 [main] INFO logger_file - User is on retail website
+2023-06-05 21:26:34,309 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:26:34,618 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:26:34,618 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:26:34,909 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:26:34,915 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:26:35,592 [main] INFO logger_file - user was able to change the categgory to Electronics
+2023-06-05 21:26:35,913 [main] INFO logger_file - User was able to search for the item Apex Legends
+2023-06-05 21:26:36,163 [main] INFO logger_file - search button was clicked successfully
+2023-06-05 21:26:37,353 [main] INFO logger_file - User is on retail website
+2023-06-05 21:26:37,729 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:26:37,945 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:26:37,946 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:26:38,200 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:26:38,204 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:26:39,215 [main] INFO logger_file - User was able to click on orders section
+2023-06-05 21:26:39,774 [main] INFO logger_file - User was able to click on Return Items button successfully
+2023-06-05 21:26:40,369 [main] INFO logger_file - User was able to choose the option successfully
+2023-06-05 21:26:40,905 [main] INFO logger_file - User was able to choose the option successfully
+2023-06-05 21:26:41,164 [main] INFO logger_file - User was able toclick on Return Order button successfully
+2023-06-05 21:26:41,166 [main] INFO logger_file - User was able to see the message
+2023-06-05 21:26:45,855 [main] INFO logger_file - User is on retail website
+2023-06-05 21:26:46,207 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:26:46,476 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:26:46,476 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:26:46,755 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:26:46,758 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:26:47,755 [main] INFO logger_file - User was able to click on orders section
+2023-06-05 21:26:48,155 [main] INFO logger_file - User was able to click on Cancel The Order successfully
+2023-06-05 21:26:48,681 [main] INFO logger_file - User was able to choose the option successfully
+2023-06-05 21:26:48,937 [main] INFO logger_file - User was able to click on Cancel Order button  successfully
+2023-06-05 21:26:48,938 [main] INFO logger_file - User was able to see the message
+2023-06-05 21:26:53,705 [main] INFO logger_file - User is on retail website
+2023-06-05 21:26:54,079 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:26:54,329 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:26:54,329 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:26:54,600 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:26:54,622 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:26:55,000 [main] INFO logger_file - User was able to click on orders section
+2023-06-05 21:26:55,965 [main] INFO logger_file - User was able to click on review button successfully
+2023-06-05 21:26:56,505 [main] INFO logger_file - User is on retail website
+2023-06-05 21:26:56,798 [main] INFO logger_file - User was able to write review successfully
+2023-06-05 21:26:56,927 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:26:57,075 [main] INFO logger_file - User was able to add review successfully
+2023-06-05 21:26:57,217 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:26:57,217 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:26:57,503 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:26:57,511 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:26:57,704 [main] INFO logger_file - User was able to see the message
+2023-06-05 21:26:57,978 [main] INFO logger_file - User was able to click on orders section
+2023-06-05 21:27:02,714 [main] INFO logger_file - User is on retail website
+2023-06-05 21:27:03,164 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:27:03,454 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:27:03,454 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:27:03,721 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:27:03,746 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:27:04,102 [main] INFO logger_file - User is on retail website
+2023-06-05 21:27:04,463 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:27:04,469 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:27:04,578 [main] INFO logger_file - User was able to click on orders section
+2023-06-05 21:27:04,677 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:27:04,677 [main] INFO logger_file - malal@123password was entered successfully
+2023-06-05 21:27:04,949 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:27:09,363 [main] INFO logger_file - User is on retail website
+2023-06-05 21:27:09,732 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:27:09,736 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:27:10,025 [main] INFO logger_file - New account button was clicked
+2023-06-05 21:27:10,432 [main] INFO logger_file - Registration info entered
+2023-06-05 21:27:10,692 [main] INFO logger_file - Sign up button was clicked
+2023-06-05 21:27:23,681 [main] INFO logger_file - User is on retail website
+2023-06-05 21:27:24,043 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:27:24,357 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:27:24,359 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:27:24,659 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:27:24,673 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:27:25,162 [main] INFO logger_file - User was able to click on orders section
+2023-06-05 21:27:30,361 [main] INFO logger_file - User is on retail website
+2023-06-05 21:27:30,730 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:27:30,937 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:27:30,938 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:27:31,208 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:27:31,223 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:27:31,624 [main] INFO logger_file - User was able to click on orders section
+2023-06-05 21:27:50,922 [main] INFO logger_file - User is on retail website
+2023-06-05 21:27:51,301 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:27:51,541 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:27:51,541 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:27:51,794 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:27:51,802 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:27:52,255 [main] INFO logger_file - User was able to click on orders section
+2023-06-05 21:27:53,069 [main] INFO logger_file - User was able to click on review button successfully
+2023-06-05 21:27:53,801 [main] INFO logger_file - User was able to write review successfully
+2023-06-05 21:27:54,071 [main] INFO logger_file - User was able to add review successfully
+2023-06-05 21:27:54,645 [main] INFO logger_file - User was able to see the message
+2023-06-05 21:27:56,909 [main] INFO logger_file - User is on retail website
+2023-06-05 21:27:57,251 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:27:57,494 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:27:57,495 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:27:57,773 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:27:57,801 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:27:58,103 [main] INFO logger_file - User was able to click on orders section
+2023-06-05 21:27:58,902 [main] INFO logger_file - User was able to click on review button successfully
+2023-06-05 21:27:59,660 [main] INFO logger_file - User was able to write review successfully
+2023-06-05 21:28:00,009 [main] INFO logger_file - User was able to add review successfully
+2023-06-05 21:28:00,180 [main] INFO logger_file - User is on retail website
+2023-06-05 21:28:00,551 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:28:00,556 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:28:00,675 [main] INFO logger_file - User was able to see the message
+2023-06-05 21:28:00,936 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:28:00,937 [main] INFO logger_file - malal@123password was entered successfully
+2023-06-05 21:28:01,243 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:28:07,196 [main] INFO logger_file - User is on retail website
+2023-06-05 21:28:07,291 [main] INFO logger_file - User is on retail website
+2023-06-05 21:28:07,564 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:28:07,570 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:28:07,643 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:28:07,656 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:28:07,823 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:28:07,824 [main] INFO logger_file - malal@123password was entered successfully
+2023-06-05 21:28:07,960 [main] INFO logger_file - New account button was clicked
+2023-06-05 21:28:08,090 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:28:08,466 [main] INFO logger_file - Registration info entered
+2023-06-05 21:28:08,745 [main] INFO logger_file - Sign up button was clicked
+2023-06-05 21:28:13,021 [main] INFO logger_file - User is on retail website
+2023-06-05 21:28:13,406 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:28:13,410 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:28:13,677 [main] INFO logger_file - New account button was clicked
+2023-06-05 21:28:14,033 [main] INFO logger_file - Registration info entered
+2023-06-05 21:28:14,296 [main] INFO logger_file - Sign up button was clicked
+2023-06-05 21:30:21,170 [main] INFO logger_file - User is on retail website
+2023-06-05 21:30:21,551 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:30:21,557 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:30:21,774 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:30:21,775 [main] INFO logger_file - malal@123password was entered successfully
+2023-06-05 21:30:22,061 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:32:18,170 [main] INFO logger_file - User is on retail website
+2023-06-05 21:32:18,527 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:32:18,535 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:32:18,832 [main] INFO logger_file - New account button was clicked
+2023-06-05 21:32:19,223 [main] INFO logger_file - Registration info entered
+2023-06-05 21:32:19,490 [main] INFO logger_file - Sign up button was clicked
+2023-06-05 21:33:32,780 [main] INFO logger_file - User is on retail website
+2023-06-05 21:33:33,194 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:33:33,201 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:33:33,494 [main] INFO logger_file - New account button was clicked
+2023-06-05 21:33:33,841 [main] INFO logger_file - Registration info entered
+2023-06-05 21:33:34,129 [main] INFO logger_file - Sign up button was clicked
+2023-06-05 21:34:17,534 [main] INFO logger_file - User is on retail website
+2023-06-05 21:34:17,953 [main] INFO logger_file - user click on All section option successfully
+2023-06-05 21:35:28,464 [main] INFO logger_file - User is on retail website
+2023-06-05 21:35:28,871 [main] INFO logger_file - user click on All section option successfully
+2023-06-05 21:35:34,076 [main] INFO logger_file - User is on retail website
+2023-06-05 21:35:34,558 [main] INFO logger_file - user click on All section option successfully
+2023-06-05 21:35:39,117 [main] INFO logger_file - User is on retail website
+2023-06-05 21:35:39,486 [main] INFO logger_file - user click on All section option successfully
+2023-06-05 21:35:44,338 [main] INFO logger_file - User is on retail website
+2023-06-05 21:35:44,749 [main] INFO logger_file - user click on All section option successfully
+2023-06-05 21:35:49,665 [main] INFO logger_file - User is on retail website
+2023-06-05 21:35:50,018 [main] INFO logger_file - user click on All section option successfully
+2023-06-05 21:37:01,686 [main] INFO logger_file - User is on retail website
+2023-06-05 21:37:02,192 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:37:02,501 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:37:02,501 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:37:02,774 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:37:02,779 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:37:03,640 [main] INFO logger_file - User was able to click on account option
+2023-06-05 21:37:03,881 [main] INFO logger_file - Gulrahman5714885664 user was able to enter the values
+2023-06-05 21:37:04,142 [main] INFO logger_file - User was able to click on update button successfully
+2023-06-05 21:37:04,177 [main] INFO logger_file - User profile information has been upadted
+2023-06-05 21:37:38,195 [main] INFO logger_file - User is on retail website
+2023-06-05 21:37:38,608 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:37:38,864 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:37:38,864 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:37:39,136 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:37:39,144 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:37:40,021 [main] INFO logger_file - User was able to click on account option
+2023-06-05 21:37:40,290 [main] INFO logger_file - User was able to click on account option
+2023-06-05 21:37:40,568 [main] INFO logger_file - User was able to click on add a payment link successfully
+2023-06-05 21:37:41,379 [main] INFO logger_file - Card information has entered successfully
+2023-06-05 21:37:46,723 [main] INFO logger_file - user was able to click on payment submition button
+2023-06-05 21:37:46,764 [main] INFO logger_file -  Payment Method added successfully
+2023-06-05 21:38:54,804 [main] INFO logger_file - User is on retail website
+2023-06-05 21:38:55,159 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:38:55,415 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:38:55,416 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:38:55,698 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:38:55,710 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:38:56,120 [main] INFO logger_file - User was able to click on account option
+2023-06-05 21:38:57,218 [main] INFO logger_file - edit button was clicked
+2023-06-05 21:38:58,116 [main] INFO logger_file - The information was updated successfully
+2023-06-05 21:38:58,391 [main] INFO logger_file - button was clicked successfully
+2023-06-05 21:38:58,428 [main] INFO logger_file -  Payment Method added successfully
+2023-06-05 21:39:32,015 [main] INFO logger_file - User is on retail website
+2023-06-05 21:39:32,404 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:39:32,684 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:39:32,684 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:39:32,962 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:39:32,984 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:39:33,373 [main] INFO logger_file - User was able to click on account option
+2023-06-05 21:39:34,438 [main] INFO logger_file - User was able to click on remove button successfully
+2023-06-05 21:39:34,476 [main] INFO logger_file - Card removed successfully
+2023-06-05 21:40:09,456 [main] INFO logger_file - User is on retail website
+2023-06-05 21:40:09,919 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:40:10,124 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:40:10,125 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:40:10,411 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:40:10,422 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:40:10,823 [main] INFO logger_file - User was able to click on account option
+2023-06-05 21:40:11,151 [main] INFO logger_file - add method option clicked successfully
+2023-06-05 21:40:12,048 [main] INFO logger_file - User was able to add address successfully
+2023-06-05 21:40:12,349 [main] INFO logger_file - the address button was cliked
+2023-06-05 21:40:12,399 [main] INFO logger_file -  Payment Method added successfully
+2023-06-05 21:40:58,085 [main] INFO logger_file - User is on retail website
+2023-06-05 21:40:58,484 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:40:58,728 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:40:58,729 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:40:59,041 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:40:59,050 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:40:59,907 [main] INFO logger_file - User was able to click on account option
+2023-06-05 21:41:00,179 [main] INFO logger_file - edit address button was clicked successfully
+2023-06-05 21:41:05,910 [main] INFO logger_file - The information has been apdated
+2023-06-05 21:41:06,254 [main] INFO logger_file - The butto was clicked successfully
+2023-06-05 21:41:06,293 [main] INFO logger_file -  Payment Method added successfully
+2023-06-05 21:41:38,210 [main] INFO logger_file - User is on retail website
+2023-06-05 21:41:38,591 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:41:38,820 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:41:38,821 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:41:39,128 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:41:39,141 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:41:39,551 [main] INFO logger_file - User was able to click on account option
+2023-06-05 21:41:39,835 [main] INFO logger_file - Remove Address button clicked
+2023-06-05 21:41:39,863 [main] INFO logger_file - Address removed
+2023-06-05 21:42:38,094 [main] INFO logger_file - User is on retail website
+2023-06-05 21:42:38,436 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:42:38,666 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:42:38,666 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:42:38,946 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:42:38,953 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:42:40,196 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-06-05 21:42:40,546 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-06-05 21:42:40,804 [main] INFO logger_file - search button was clicked successfully
+2023-06-05 21:42:46,089 [main] INFO logger_file - User clicked the item successfully
+2023-06-05 21:42:51,422 [main] INFO logger_file - 2 was selected
+2023-06-05 21:42:51,734 [main] INFO logger_file - User added to cart successfully
+2023-06-05 21:42:51,736 [main] INFO logger_file - User was able to change the quantity 2
+2023-06-05 21:43:25,562 [main] INFO logger_file - User is on retail website
+2023-06-05 21:43:25,960 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:43:26,247 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:43:26,247 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:43:26,514 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:43:26,522 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:43:27,198 [main] INFO logger_file - user was able to change the categgory to Electronics
+2023-06-05 21:43:27,557 [main] INFO logger_file - User was able to search for the item Apex Legends
+2023-06-05 21:43:27,811 [main] INFO logger_file - search button was clicked successfully
+2023-06-05 21:54:11,684 [main] INFO logger_file - User is on retail website
+2023-06-05 21:54:12,048 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:54:12,280 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:54:12,284 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:54:12,565 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:54:12,573 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:54:13,258 [main] INFO logger_file - user was able to change the categgory to Electronics
+2023-06-05 21:54:13,646 [main] INFO logger_file - User was able to search for the item Apex Legends
+2023-06-05 21:54:13,915 [main] INFO logger_file - search button was clicked successfully
+2023-06-05 21:55:15,658 [main] INFO logger_file - User is on retail website
+2023-06-05 21:55:16,031 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:55:16,282 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:55:16,283 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:55:16,581 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:55:16,591 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:55:17,381 [main] INFO logger_file - user was able to change the categgory to Electronics
+2023-06-05 21:55:17,739 [main] INFO logger_file - User was able to search for the item Apex Legends
+2023-06-05 21:55:18,003 [main] INFO logger_file - search button was clicked successfully
+2023-06-05 21:56:52,779 [main] INFO logger_file - User is on retail website
+2023-06-05 21:56:53,178 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:56:53,504 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:56:53,504 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:56:53,775 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:56:53,781 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:56:54,494 [main] INFO logger_file - user was able to change the categgory to Electronics
+2023-06-05 21:56:54,853 [main] INFO logger_file - User was able to search for the item Apex Legends
+2023-06-05 21:56:55,115 [main] INFO logger_file - search button was clicked successfully
+2023-06-05 21:58:29,010 [main] INFO logger_file - User is on retail website
+2023-06-05 21:58:29,403 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 21:58:29,698 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 21:58:29,698 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 21:58:29,964 [main] INFO logger_file - user was able to login successfully
+2023-06-05 21:58:29,986 [main] INFO logger_file - User logged in into the account
+2023-06-05 21:58:30,685 [main] INFO logger_file - user was able to change the categgory to Electronics
+2023-06-05 21:58:31,034 [main] INFO logger_file - User was able to search for the item Apex Legends
+2023-06-05 21:58:31,301 [main] INFO logger_file - search button was clicked successfully
+2023-06-05 21:58:36,633 [main] INFO logger_file - Searched item was clicked
+2023-06-05 21:58:36,912 [main] INFO logger_file - 5 was selected
+2023-06-05 21:58:37,253 [main] INFO logger_file - User added to cart successfully
+2023-06-05 21:58:37,254 [main] INFO logger_file - User was able to change the quantity 5
+2023-06-05 21:58:37,659 [main] INFO logger_file - User was able to click on cart option successfully
+2023-06-05 21:58:38,043 [main] INFO logger_file - User was able to click on Proceed to Checkout button successfully
+2023-06-05 22:00:53,358 [main] INFO logger_file - User is on retail website
+2023-06-05 22:00:53,751 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:00:54,029 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 22:00:54,030 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 22:00:54,330 [main] INFO logger_file - user was able to login successfully
+2023-06-05 22:00:54,338 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:00:55,143 [main] INFO logger_file - user was able to change the categgory to Electronics
+2023-06-05 22:00:55,587 [main] INFO logger_file - User was able to search for the item Apex Legends
+2023-06-05 22:00:55,894 [main] INFO logger_file - search button was clicked successfully
+2023-06-05 22:00:56,183 [main] INFO logger_file - Searched item was clicked
+2023-06-05 22:00:56,503 [main] INFO logger_file - 5 was selected
+2023-06-05 22:00:56,774 [main] INFO logger_file - User added to cart successfully
+2023-06-05 22:00:56,779 [main] INFO logger_file - User was able to change the quantity 5
+2023-06-05 22:00:57,200 [main] INFO logger_file - User was able to click on cart option successfully
+2023-06-05 22:00:57,498 [main] INFO logger_file - User was able to click on Proceed to Checkout button successfully
+2023-06-05 22:05:53,931 [main] INFO logger_file - User is on retail website
+2023-06-05 22:05:54,332 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:05:54,651 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 22:05:54,651 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 22:05:54,927 [main] INFO logger_file - user was able to login successfully
+2023-06-05 22:05:54,939 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:05:55,651 [main] INFO logger_file - user was able to change the categgory to Electronics
+2023-06-05 22:05:56,016 [main] INFO logger_file - User was able to search for the item Apex Legends
+2023-06-05 22:05:56,273 [main] INFO logger_file - search button was clicked successfully
+2023-06-05 22:05:56,566 [main] INFO logger_file - Searched item was clicked
+2023-06-05 22:05:56,860 [main] INFO logger_file - 5 was selected
+2023-06-05 22:05:57,156 [main] INFO logger_file - User added to cart successfully
+2023-06-05 22:05:57,158 [main] INFO logger_file - User was able to change the quantity 5
+2023-06-05 22:05:57,477 [main] INFO logger_file - User was able to click on cart option successfully
+2023-06-05 22:05:57,767 [main] INFO logger_file - User was able to click on Proceed to Checkout button successfully
+2023-06-05 22:06:34,816 [main] INFO logger_file - User is on retail website
+2023-06-05 22:06:35,213 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:06:35,584 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 22:06:35,584 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 22:06:35,861 [main] INFO logger_file - user was able to login successfully
+2023-06-05 22:06:35,880 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:06:36,586 [main] INFO logger_file - user was able to change the categgory to Electronics
+2023-06-05 22:06:36,934 [main] INFO logger_file - User was able to search for the item Apex Legends
+2023-06-05 22:06:37,192 [main] INFO logger_file - search button was clicked successfully
+2023-06-05 22:06:37,480 [main] INFO logger_file - Searched item was clicked
+2023-06-05 22:06:37,753 [main] INFO logger_file - 5 was selected
+2023-06-05 22:06:38,024 [main] INFO logger_file - User added to cart successfully
+2023-06-05 22:06:38,025 [main] INFO logger_file - User was able to change the quantity 5
+2023-06-05 22:06:38,344 [main] INFO logger_file - User was able to click on cart option successfully
+2023-06-05 22:06:38,626 [main] INFO logger_file - User was able to click on Proceed to Checkout button successfully
+2023-06-05 22:09:09,784 [main] INFO logger_file - User is on retail website
+2023-06-05 22:09:10,207 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:09:10,506 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 22:09:10,506 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 22:09:10,799 [main] INFO logger_file - user was able to login successfully
+2023-06-05 22:09:10,814 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:09:11,474 [main] INFO logger_file - user was able to change the categgory to Electronics
+2023-06-05 22:09:11,834 [main] INFO logger_file - User was able to search for the item Apex Legends
+2023-06-05 22:09:12,112 [main] INFO logger_file - search button was clicked successfully
+2023-06-05 22:09:12,390 [main] INFO logger_file - Searched item was clicked
+2023-06-05 22:09:12,688 [main] INFO logger_file - 5 was selected
+2023-06-05 22:09:12,958 [main] INFO logger_file - User added to cart successfully
+2023-06-05 22:09:12,959 [main] INFO logger_file - User was able to change the quantity 5
+2023-06-05 22:09:13,251 [main] INFO logger_file - User was able to click on cart option successfully
+2023-06-05 22:09:13,532 [main] INFO logger_file - User was able to click on Proceed to Checkout button successfully
+2023-06-05 22:10:30,764 [main] INFO logger_file - User is on retail website
+2023-06-05 22:10:31,171 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:10:31,453 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 22:10:31,454 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 22:10:31,732 [main] INFO logger_file - user was able to login successfully
+2023-06-05 22:10:31,739 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:10:32,406 [main] INFO logger_file - user was able to change the categgory to Electronics
+2023-06-05 22:10:32,804 [main] INFO logger_file - User was able to search for the item Apex Legends
+2023-06-05 22:10:33,080 [main] INFO logger_file - search button was clicked successfully
+2023-06-05 22:10:33,389 [main] INFO logger_file - Searched item was clicked
+2023-06-05 22:10:33,803 [main] INFO logger_file - 5 was selected
+2023-06-05 22:10:34,107 [main] INFO logger_file - User added to cart successfully
+2023-06-05 22:10:34,109 [main] INFO logger_file - User was able to change the quantity 5
+2023-06-05 22:10:34,511 [main] INFO logger_file - User was able to click on cart option successfully
+2023-06-05 22:10:34,916 [main] INFO logger_file - User was able to click on Proceed to Checkout button successfully
+2023-06-05 22:12:30,799 [main] INFO logger_file - User is on retail website
+2023-06-05 22:12:31,210 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:12:31,544 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 22:12:31,544 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 22:12:31,815 [main] INFO logger_file - user was able to login successfully
+2023-06-05 22:12:31,827 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:12:32,540 [main] INFO logger_file - user was able to change the categgory to Electronics
+2023-06-05 22:12:32,904 [main] INFO logger_file - User was able to search for the item Apex Legends
+2023-06-05 22:12:33,189 [main] INFO logger_file - search button was clicked successfully
+2023-06-05 22:12:33,476 [main] INFO logger_file - Searched item was clicked
+2023-06-05 22:12:33,743 [main] INFO logger_file - 5 was selected
+2023-06-05 22:12:34,010 [main] INFO logger_file - User added to cart successfully
+2023-06-05 22:12:34,011 [main] INFO logger_file - User was able to change the quantity 5
+2023-06-05 22:12:34,314 [main] INFO logger_file - User was able to click on cart option successfully
+2023-06-05 22:12:34,611 [main] INFO logger_file - User was able to click on Proceed to Checkout button successfully
+2023-06-05 22:14:30,331 [main] INFO logger_file - User is on retail website
+2023-06-05 22:14:30,733 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:14:31,061 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 22:14:31,062 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 22:14:31,335 [main] INFO logger_file - user was able to login successfully
+2023-06-05 22:14:31,350 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:14:32,032 [main] INFO logger_file - user was able to change the categgory to Electronics
+2023-06-05 22:14:32,386 [main] INFO logger_file - User was able to search for the item Apex Legends
+2023-06-05 22:14:32,684 [main] INFO logger_file - search button was clicked successfully
+2023-06-05 22:14:33,011 [main] INFO logger_file - Searched item was clicked
+2023-06-05 22:14:33,360 [main] INFO logger_file - 5 was selected
+2023-06-05 22:14:33,622 [main] INFO logger_file - User added to cart successfully
+2023-06-05 22:14:33,625 [main] INFO logger_file - User was able to change the quantity 5
+2023-06-05 22:14:33,921 [main] INFO logger_file - User was able to click on cart option successfully
+2023-06-05 22:14:34,209 [main] INFO logger_file - User was able to click on Proceed to Checkout button successfully
+2023-06-05 22:16:56,975 [main] INFO logger_file - User is on retail website
+2023-06-05 22:16:57,333 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:16:57,646 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 22:16:57,646 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 22:16:57,926 [main] INFO logger_file - user was able to login successfully
+2023-06-05 22:16:57,936 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:16:58,647 [main] INFO logger_file - user was able to change the categgory to Electronics
+2023-06-05 22:16:59,014 [main] INFO logger_file - User was able to search for the item Apex Legends
+2023-06-05 22:16:59,274 [main] INFO logger_file - search button was clicked successfully
+2023-06-05 22:16:59,543 [main] INFO logger_file - Searched item was clicked
+2023-06-05 22:16:59,800 [main] INFO logger_file - 5 was selected
+2023-06-05 22:17:00,065 [main] INFO logger_file - User added to cart successfully
+2023-06-05 22:17:00,065 [main] INFO logger_file - User was able to change the quantity 5
+2023-06-05 22:17:00,381 [main] INFO logger_file - User was able to click on cart option successfully
+2023-06-05 22:17:00,774 [main] INFO logger_file - User was able to click on Proceed to Checkout button successfully
+2023-06-05 22:17:32,975 [main] INFO logger_file - User is on retail website
+2023-06-05 22:17:33,365 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:17:33,616 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 22:17:33,616 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 22:17:33,886 [main] INFO logger_file - user was able to login successfully
+2023-06-05 22:17:33,903 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:17:34,624 [main] INFO logger_file - user was able to change the categgory to Electronics
+2023-06-05 22:17:34,949 [main] INFO logger_file - User was able to search for the item Apex Legends
+2023-06-05 22:17:35,216 [main] INFO logger_file - search button was clicked successfully
+2023-06-05 22:17:35,489 [main] INFO logger_file - Searched item was clicked
+2023-06-05 22:17:35,764 [main] INFO logger_file - 5 was selected
+2023-06-05 22:17:36,025 [main] INFO logger_file - User added to cart successfully
+2023-06-05 22:17:36,026 [main] INFO logger_file - User was able to change the quantity 5
+2023-06-05 22:17:36,312 [main] INFO logger_file - User was able to click on cart option successfully
+2023-06-05 22:17:36,636 [main] INFO logger_file - User was able to click on Proceed to Checkout button successfully
+2023-06-05 22:24:05,285 [main] INFO logger_file - User is on retail website
+2023-06-05 22:24:05,733 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:24:05,998 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 22:24:05,998 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 22:24:06,272 [main] INFO logger_file - user was able to login successfully
+2023-06-05 22:24:06,284 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:24:07,490 [main] INFO logger_file - user was able to change the categgory to Electronics
+2023-06-05 22:24:07,835 [main] INFO logger_file - User was able to search for the item Apex Legends
+2023-06-05 22:24:08,096 [main] INFO logger_file - search button was clicked successfully
+2023-06-05 22:24:08,374 [main] INFO logger_file - Searched item was clicked
+2023-06-05 22:24:08,741 [main] INFO logger_file - 5 was selected
+2023-06-05 22:24:09,077 [main] INFO logger_file - User added to cart successfully
+2023-06-05 22:24:09,081 [main] INFO logger_file - User was able to change the quantity 5
+2023-06-05 22:24:09,588 [main] INFO logger_file - User was able to click on cart option successfully
+2023-06-05 22:24:10,012 [main] INFO logger_file - User was able to click on Proceed to Checkout button successfully
+2023-06-05 22:24:10,336 [main] INFO logger_file - Place your order button was clicked
+2023-06-05 22:24:10,427 [main] INFO logger_file -  Payment Method added successfully
+2023-06-05 22:25:38,982 [main] INFO logger_file - User is on retail website
+2023-06-05 22:25:39,390 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:25:39,702 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 22:25:39,703 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 22:25:39,987 [main] INFO logger_file - user was able to login successfully
+2023-06-05 22:25:40,003 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:25:40,689 [main] INFO logger_file - user was able to change the categgory to Electronics
+2023-06-05 22:25:41,035 [main] INFO logger_file - User was able to search for the item Apex Legends
+2023-06-05 22:25:41,299 [main] INFO logger_file - search button was clicked successfully
+2023-06-05 22:25:41,574 [main] INFO logger_file - Searched item was clicked
+2023-06-05 22:25:41,839 [main] INFO logger_file - 5 was selected
+2023-06-05 22:25:42,110 [main] INFO logger_file - User added to cart successfully
+2023-06-05 22:25:42,112 [main] INFO logger_file - User was able to change the quantity 5
+2023-06-05 22:25:42,506 [main] INFO logger_file - User was able to click on cart option successfully
+2023-06-05 22:25:42,791 [main] INFO logger_file - User was able to click on Proceed to Checkout button successfully
+2023-06-05 22:25:43,072 [main] INFO logger_file - Place your order button was clicked
+2023-06-05 22:25:43,150 [main] INFO logger_file -  Payment Method added successfully
+2023-06-05 22:26:43,319 [main] INFO logger_file - User is on retail website
+2023-06-05 22:26:43,673 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:26:43,954 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 22:26:43,955 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 22:26:44,233 [main] INFO logger_file - user was able to login successfully
+2023-06-05 22:26:44,264 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:26:44,672 [main] INFO logger_file - User was able to click on orders section
+2023-06-05 22:26:45,766 [main] INFO logger_file - User was able to click on Return Items button successfully
+2023-06-05 22:26:46,387 [main] INFO logger_file - User was able to choose the option successfully
+2023-06-05 22:26:46,994 [main] INFO logger_file - User was able to choose the option successfully
+2023-06-05 22:26:47,301 [main] INFO logger_file - User was able toclick on Return Order button successfully
+2023-06-05 22:26:47,303 [main] INFO logger_file - User was able to see the message
+2023-06-05 22:27:32,919 [main] INFO logger_file - User is on retail website
+2023-06-05 22:27:33,490 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:27:33,773 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 22:27:33,773 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 22:27:34,053 [main] INFO logger_file - user was able to login successfully
+2023-06-05 22:27:34,063 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:27:34,456 [main] INFO logger_file - User was able to click on orders section
+2023-06-05 22:27:34,858 [main] INFO logger_file - User was able to click on Cancel The Order successfully
+2023-06-05 22:27:35,426 [main] INFO logger_file - User was able to choose the option successfully
+2023-06-05 22:27:35,681 [main] INFO logger_file - User was able to click on Cancel Order button  successfully
+2023-06-05 22:27:35,682 [main] INFO logger_file - User was able to see the message
+2023-06-05 22:28:16,387 [main] INFO logger_file - User is on retail website
+2023-06-05 22:28:16,774 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:28:17,093 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 22:28:17,093 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 22:28:17,363 [main] INFO logger_file - user was able to login successfully
+2023-06-05 22:28:17,373 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:28:17,780 [main] INFO logger_file - User was able to click on orders section
+2023-06-05 22:28:18,770 [main] INFO logger_file - User was able to click on review button successfully
+2023-06-05 22:28:19,518 [main] INFO logger_file - User was able to write review successfully
+2023-06-05 22:28:19,837 [main] INFO logger_file - User was able to add review successfully
+2023-06-05 22:28:20,562 [main] INFO logger_file - User was able to see the message
+2023-06-05 22:29:23,075 [main] INFO logger_file - User is on retail website
+2023-06-05 22:29:23,453 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:29:23,726 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 22:29:23,726 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 22:29:24,011 [main] INFO logger_file - user was able to login successfully
+2023-06-05 22:29:24,038 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:29:24,507 [main] INFO logger_file - User was able to click on account option
+2023-06-05 22:29:24,785 [main] INFO logger_file - Gulrahmann5714885664 user was able to enter the values
+2023-06-05 22:29:25,055 [main] INFO logger_file - User was able to click on update button successfully
+2023-06-05 22:29:25,092 [main] INFO logger_file - User profile information has been upadted
+2023-06-05 22:29:54,138 [main] INFO logger_file - User is on retail website
+2023-06-05 22:29:54,529 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:29:54,780 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 22:29:54,780 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 22:29:55,067 [main] INFO logger_file - user was able to login successfully
+2023-06-05 22:29:55,078 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:29:55,471 [main] INFO logger_file - User was able to click on account option
+2023-06-05 22:29:55,792 [main] INFO logger_file - User was able to click on account option
+2023-06-05 22:29:56,052 [main] INFO logger_file - User was able to click on add a payment link successfully
+2023-06-05 22:29:56,980 [main] INFO logger_file - Card information has entered successfully
+2023-06-05 22:30:02,343 [main] INFO logger_file - user was able to click on payment submition button
+2023-06-05 22:30:02,388 [main] INFO logger_file -  Payment Method added successfully
+2023-06-05 22:30:39,807 [main] INFO logger_file - User is on retail website
+2023-06-05 22:30:40,154 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:30:40,385 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 22:30:40,385 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 22:30:40,663 [main] INFO logger_file - user was able to login successfully
+2023-06-05 22:30:40,678 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:30:41,075 [main] INFO logger_file - User was able to click on account option
+2023-06-05 22:30:42,132 [main] INFO logger_file - edit button was clicked
+2023-06-05 22:30:43,192 [main] INFO logger_file - The information was updated successfully
+2023-06-05 22:30:43,537 [main] INFO logger_file - button was clicked successfully
+2023-06-05 22:30:43,583 [main] INFO logger_file -  Payment Method added successfully
+2023-06-05 22:31:23,193 [main] INFO logger_file - User is on retail website
+2023-06-05 22:31:23,632 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:31:23,967 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 22:31:23,967 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 22:31:24,231 [main] INFO logger_file - user was able to login successfully
+2023-06-05 22:31:24,237 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:31:24,689 [main] INFO logger_file - User was able to click on account option
+2023-06-05 22:31:25,258 [main] INFO logger_file - User was able to click on remove button successfully
+2023-06-05 22:31:25,297 [main] INFO logger_file - Card removed successfully
+2023-06-05 22:31:51,240 [main] INFO logger_file - User is on retail website
+2023-06-05 22:31:51,649 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:31:51,931 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 22:31:51,932 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 22:31:52,222 [main] INFO logger_file - user was able to login successfully
+2023-06-05 22:31:52,233 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:31:53,081 [main] INFO logger_file - User was able to click on account option
+2023-06-05 22:31:53,355 [main] INFO logger_file - add method option clicked successfully
+2023-06-05 22:31:54,168 [main] INFO logger_file - User was able to add address successfully
+2023-06-05 22:31:54,471 [main] INFO logger_file - the address button was cliked
+2023-06-05 22:31:54,506 [main] INFO logger_file -  Payment Method added successfully
+2023-06-05 22:32:30,161 [main] INFO logger_file - User is on retail website
+2023-06-05 22:32:30,584 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:32:30,828 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 22:32:30,829 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 22:32:31,172 [main] INFO logger_file - user was able to login successfully
+2023-06-05 22:32:31,192 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:32:31,646 [main] INFO logger_file - User was able to click on account option
+2023-06-05 22:32:31,933 [main] INFO logger_file - add method option clicked successfully
+2023-06-05 22:32:32,803 [main] INFO logger_file - User was able to add address successfully
+2023-06-05 22:32:33,104 [main] INFO logger_file - the address button was cliked
+2023-06-05 22:32:33,148 [main] INFO logger_file -  Payment Method added successfully
+2023-06-05 22:33:03,090 [main] INFO logger_file - User is on retail website
+2023-06-05 22:33:03,460 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:33:03,776 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 22:33:03,776 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 22:33:04,045 [main] INFO logger_file - user was able to login successfully
+2023-06-05 22:33:04,051 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:33:04,917 [main] INFO logger_file - User was able to click on account option
+2023-06-05 22:33:05,171 [main] INFO logger_file - Remove Address button clicked
+2023-06-05 22:33:05,200 [main] INFO logger_file - Address removed
+2023-06-05 22:37:39,518 [main] INFO logger_file - User is on retail website
+2023-06-05 22:37:39,891 [main] INFO logger_file - user click on All section option successfully
+2023-06-05 22:37:44,877 [main] INFO logger_file - User is on retail website
+2023-06-05 22:37:45,301 [main] INFO logger_file - user click on All section option successfully
+2023-06-05 22:37:50,389 [main] INFO logger_file - User is on retail website
+2023-06-05 22:37:50,747 [main] INFO logger_file - user click on All section option successfully
+2023-06-05 22:37:55,550 [main] INFO logger_file - User is on retail website
+2023-06-05 22:37:55,930 [main] INFO logger_file - user click on All section option successfully
+2023-06-05 22:38:01,464 [main] INFO logger_file - User is on retail website
+2023-06-05 22:38:01,878 [main] INFO logger_file - user click on All section option successfully
+2023-06-05 22:38:06,922 [main] INFO logger_file - User is on retail website
+2023-06-05 22:38:07,378 [main] INFO logger_file - user click on All section option successfully
+2023-06-05 22:38:11,932 [main] INFO logger_file - User is on retail website
+2023-06-05 22:38:12,340 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:38:12,631 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 22:38:12,632 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 22:38:12,922 [main] INFO logger_file - user was able to login successfully
+2023-06-05 22:38:12,949 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:38:13,411 [main] INFO logger_file - User was able to click on account option
+2023-06-05 22:38:13,722 [main] INFO logger_file - Gulrahmannn5714885664 user was able to enter the values
+2023-06-05 22:38:13,996 [main] INFO logger_file - User was able to click on update button successfully
+2023-06-05 22:38:14,027 [main] INFO logger_file - User profile information has been upadted
+2023-06-05 22:38:18,808 [main] INFO logger_file - User is on retail website
+2023-06-05 22:38:19,203 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:38:19,542 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 22:38:19,543 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 22:38:19,867 [main] INFO logger_file - user was able to login successfully
+2023-06-05 22:38:19,879 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:38:20,298 [main] INFO logger_file - User was able to click on account option
+2023-06-05 22:38:20,701 [main] INFO logger_file - User was able to click on account option
+2023-06-05 22:38:21,033 [main] INFO logger_file - User was able to click on add a payment link successfully
+2023-06-05 22:38:21,820 [main] INFO logger_file - Card information has entered successfully
+2023-06-05 22:38:27,162 [main] INFO logger_file - user was able to click on payment submition button
+2023-06-05 22:38:27,191 [main] INFO logger_file -  Payment Method added successfully
+2023-06-05 22:38:32,018 [main] INFO logger_file - User is on retail website
+2023-06-05 22:38:32,428 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:38:32,698 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 22:38:32,698 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 22:38:33,030 [main] INFO logger_file - user was able to login successfully
+2023-06-05 22:38:33,040 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:38:33,980 [main] INFO logger_file - User was able to click on account option
+2023-06-05 22:38:34,531 [main] INFO logger_file - edit button was clicked
+2023-06-05 22:38:35,357 [main] INFO logger_file - The information was updated successfully
+2023-06-05 22:38:35,619 [main] INFO logger_file - button was clicked successfully
+2023-06-05 22:38:35,658 [main] INFO logger_file -  Payment Method added successfully
+2023-06-05 22:38:40,315 [main] INFO logger_file - User is on retail website
+2023-06-05 22:38:40,723 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:38:41,023 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 22:38:41,024 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 22:38:41,294 [main] INFO logger_file - user was able to login successfully
+2023-06-05 22:38:41,309 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:38:41,717 [main] INFO logger_file - User was able to click on account option
+2023-06-05 22:38:42,267 [main] INFO logger_file - User was able to click on remove button successfully
+2023-06-05 22:38:42,287 [main] INFO logger_file - Card removed successfully
+2023-06-05 22:38:47,240 [main] INFO logger_file - User is on retail website
+2023-06-05 22:38:47,624 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:38:47,989 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 22:38:47,989 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 22:38:48,253 [main] INFO logger_file - user was able to login successfully
+2023-06-05 22:38:48,261 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:38:48,694 [main] INFO logger_file - User was able to click on account option
+2023-06-05 22:38:49,117 [main] INFO logger_file - add method option clicked successfully
+2023-06-05 22:38:49,862 [main] INFO logger_file - User was able to add address successfully
+2023-06-05 22:38:50,163 [main] INFO logger_file - the address button was cliked
+2023-06-05 22:38:50,197 [main] INFO logger_file -  Payment Method added successfully
+2023-06-05 22:38:55,072 [main] INFO logger_file - User is on retail website
+2023-06-05 22:38:55,461 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:38:55,819 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 22:38:55,819 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 22:38:56,101 [main] INFO logger_file - user was able to login successfully
+2023-06-05 22:38:56,110 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:38:56,556 [main] INFO logger_file - User was able to click on account option
+2023-06-05 22:38:57,391 [main] INFO logger_file - edit address button was clicked successfully
+2023-06-05 22:39:03,122 [main] INFO logger_file - The information has been apdated
+2023-06-05 22:39:03,507 [main] INFO logger_file - The butto was clicked successfully
+2023-06-05 22:39:03,547 [main] INFO logger_file -  Payment Method added successfully
+2023-06-05 22:39:08,619 [main] INFO logger_file - User is on retail website
+2023-06-05 22:39:09,013 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:39:09,241 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 22:39:09,242 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 22:39:09,529 [main] INFO logger_file - user was able to login successfully
+2023-06-05 22:39:09,541 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:39:10,013 [main] INFO logger_file - User was able to click on account option
+2023-06-05 22:39:10,371 [main] INFO logger_file - Remove Address button clicked
+2023-06-05 22:39:10,396 [main] INFO logger_file - Address removed
+2023-06-05 22:39:15,408 [main] INFO logger_file - User is on retail website
+2023-06-05 22:39:15,760 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:39:16,153 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 22:39:16,153 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 22:39:16,414 [main] INFO logger_file - user was able to login successfully
+2023-06-05 22:39:16,429 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:39:17,139 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-06-05 22:39:17,490 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-06-05 22:39:17,756 [main] INFO logger_file - search button was clicked successfully
+2023-06-05 22:39:18,018 [main] INFO logger_file - Searched item was clicked
+2023-06-05 22:39:23,358 [main] INFO logger_file - 2 was selected
+2023-06-05 22:39:23,650 [main] INFO logger_file - User added to cart successfully
+2023-06-05 22:39:23,651 [main] INFO logger_file - User was able to change the quantity 2
+2023-06-05 22:39:28,974 [main] INFO logger_file - User is on retail website
+2023-06-05 22:39:29,322 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:39:29,617 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 22:39:29,617 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 22:39:29,940 [main] INFO logger_file - user was able to login successfully
+2023-06-05 22:39:29,944 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:39:30,639 [main] INFO logger_file - user was able to change the categgory to Electronics
+2023-06-05 22:39:30,953 [main] INFO logger_file - User was able to search for the item Apex Legends
+2023-06-05 22:39:31,214 [main] INFO logger_file - search button was clicked successfully
+2023-06-05 22:39:31,566 [main] INFO logger_file - Searched item was clicked
+2023-06-05 22:39:31,821 [main] INFO logger_file - 5 was selected
+2023-06-05 22:39:32,101 [main] INFO logger_file - User added to cart successfully
+2023-06-05 22:39:32,102 [main] INFO logger_file - User was able to change the quantity 5
+2023-06-05 22:39:32,456 [main] INFO logger_file - User was able to click on cart option successfully
+2023-06-05 22:39:32,725 [main] INFO logger_file - User was able to click on Proceed to Checkout button successfully
+2023-06-05 22:39:32,972 [main] INFO logger_file - Place your order button was clicked
+2023-06-05 22:39:33,015 [main] INFO logger_file -  Payment Method added successfully
+2023-06-05 22:39:37,469 [main] INFO logger_file - User is on retail website
+2023-06-05 22:39:37,875 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:39:38,275 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 22:39:38,276 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 22:39:38,544 [main] INFO logger_file - user was able to login successfully
+2023-06-05 22:39:38,556 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:39:38,978 [main] INFO logger_file - User was able to click on orders section
+2023-06-05 22:39:39,327 [main] INFO logger_file - User was able to click on Return Items button successfully
+2023-06-05 22:39:39,849 [main] INFO logger_file - User was able to choose the option successfully
+2023-06-05 22:39:40,367 [main] INFO logger_file - User was able to choose the option successfully
+2023-06-05 22:39:40,625 [main] INFO logger_file - User was able toclick on Return Order button successfully
+2023-06-05 22:39:40,626 [main] INFO logger_file - User was able to see the message
+2023-06-05 22:39:45,678 [main] INFO logger_file - User is on retail website
+2023-06-05 22:39:46,058 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:39:46,352 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 22:39:46,354 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 22:39:46,622 [main] INFO logger_file - user was able to login successfully
+2023-06-05 22:39:46,645 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:39:47,036 [main] INFO logger_file - User was able to click on orders section
+2023-06-05 22:39:47,959 [main] INFO logger_file - User was able to click on Cancel The Order successfully
+2023-06-05 22:39:48,488 [main] INFO logger_file - User was able to choose the option successfully
+2023-06-05 22:39:48,750 [main] INFO logger_file - User was able to click on Cancel Order button  successfully
+2023-06-05 22:39:48,751 [main] INFO logger_file - User was able to see the message
+2023-06-05 22:39:53,456 [main] INFO logger_file - User is on retail website
+2023-06-05 22:39:53,858 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:39:54,059 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 22:39:54,059 [main] INFO logger_file - Malal@123password was entered successfully
+2023-06-05 22:39:54,343 [main] INFO logger_file - user was able to login successfully
+2023-06-05 22:39:54,363 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:39:54,783 [main] INFO logger_file - User was able to click on orders section
+2023-06-05 22:39:55,600 [main] INFO logger_file - User was able to click on review button successfully
+2023-06-05 22:39:56,266 [main] INFO logger_file - User was able to write review successfully
+2023-06-05 22:39:56,524 [main] INFO logger_file - User was able to add review successfully
+2023-06-05 22:39:57,134 [main] INFO logger_file - User was able to see the message
+2023-06-05 22:40:02,154 [main] INFO logger_file - User is on retail website
+2023-06-05 22:40:02,543 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:40:02,548 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:40:02,819 [main] INFO logger_file - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 22:40:02,819 [main] INFO logger_file - malal@123password was entered successfully
+2023-06-05 22:40:03,113 [main] INFO logger_file - user was able to login successfully
+2023-06-05 22:40:08,129 [main] INFO logger_file - User is on retail website
+2023-06-05 22:40:08,570 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-05 22:40:08,575 [main] INFO logger_file - User logged in into the account
+2023-06-05 22:40:08,853 [main] INFO logger_file - New account button was clicked
+2023-06-05 22:40:09,260 [main] INFO logger_file - Registration info entered
+2023-06-05 22:40:09,521 [main] INFO logger_file - Sign up button was clicked

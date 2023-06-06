@@ -45,9 +45,9 @@ public class RetailOrderPage extends BaseSetup {
 	
 	@FindBy(css ="button#cancelBtn")
 	public WebElement cancelOrderBttn;
-	
+	//*[@id=\"root\"]/div[1]/div[1]/div[3]/div/div/p[1]
 	//div//p[text()='Apex Legends - 1,000 Apex Coins']
-	@FindBy(xpath ="//*[@id=\"root\"]/div[1]/div[1]/div[3]/div/div/p[1]")
+	@FindBy(xpath ="//div//p[text()='Kasa Outdoor Smart Plug']")
 	public WebElement itemKasaOutdoor2;
 	
 	@FindBy(xpath = "//div[@id='cartBtn']")
@@ -110,6 +110,52 @@ public class RetailOrderPage extends BaseSetup {
 	//div[text()='Your review was added successfully']
 	@FindBy(xpath = "//div//div[text()='Your review was added successfully']")
     public WebElement reviewAddedMessage;
+	
+	@FindBy(xpath = "//*[@id=\"search\"]")
+	public WebElement allDeptDropdown;
+
+	@FindBy(xpath = "//*[@id=\"searchInput\"]")
+	public WebElement searchTextBox;
+
+	@FindBy(xpath = "//*[@id=\"searchBtn\"]")
+	public WebElement searchButton;
+
+	@FindBy(xpath = "//*[@id=\"root\"]/div[1]/div[1]/div[3]/div/div/p[1]")
+	public WebElement clickOnSearchedItem;
+
+	@FindBy(xpath = "/html/body/div/div[1]/div[1]/div[3]/div/div[1]/div[3]/div/div/select")
+	public WebElement quantitySelectDropdown;
+
+	@FindBy(xpath = "//*[@id=\"addToCartBtn\"]/span")
+	public WebElement addToCartButton;
+
+	@FindBy(xpath = "//*[@id=\"cartBtn\"]")
+	public WebElement cartOption2;
+
+	@FindBy(xpath = "//*[@id=\"proceedBtn\"]")
+	public WebElement proceedToCheckOut;
+
+	@FindBy(xpath = "//*[@id=\"placeOrderBtn\"]")
+	public WebElement placeOrderButton;
+
+	@FindBy(xpath = "//*[@id=\"root\"]/div[1]/div[1]/div[3]/div/div/div[1]/p")
+	public WebElement orderPlacedSuccessMessage;
+
+	@FindBy(xpath = "/html/body/div/div[1]/div[1]/div[3]/div/div/div[1]/p")
+	public WebElement orderPlacedConfirmation;
+
+	@FindBy(xpath = "//*[@id=\"root	\"]/div[1]/div[1]/div[3]/div/div/div[1]/div[2]/div/div/div[3]/div/p/span[2]")
+	public WebElement deleteItemFromCart;
+
+	public void clearCart() {
+		cartOption.click();
+		deleteItemFromCart.click();
+		
+	}
+
+
+
+
 
 
 

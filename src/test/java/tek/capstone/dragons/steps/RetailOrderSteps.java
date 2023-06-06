@@ -32,14 +32,20 @@ public class RetailOrderSteps extends CommonUtility {
 		logger.info("search button was clicked successfully");
 	}
 
-	@When("User click on item")
-	public void userClickOnItem() {
-		click(factory.retailorderpage().itemKasaOutdoor);
-		slowDown();
-		logger.info("User clicked the item successfully");
+//	@When("User click on item")
+//	public void userClickOnItem() {
+//		click(factory.retailorderpage().itemKasaOutdoor);
+//		slowDown();
+//		logger.info("User clicked the item successfully");
+//
+//	}
 
+	@When("User click on searched item")
+	public void userClickOnSearchedItem() {
+		click(factory.retailorderpage().clickOnSearchedItem);
+		logger.info("Searched item was clicked");
 	}
-
+	
 	@When("User select quantity {string}")
 	public void userSelectQuantity(String string) {
 		slowDown();
@@ -49,7 +55,7 @@ public class RetailOrderSteps extends CommonUtility {
 
 	@When("User click add to Cart button")
 	public void userClickAddToCartButton() {
-		click(factory.retailorderpage().addToCartBttn);
+		click(factory.retailorderpage().addToCartButton);
 		logger.info("User added to cart successfully");
 	}
 
@@ -63,6 +69,7 @@ public class RetailOrderSteps extends CommonUtility {
 		// quantity);
 		// logger.info("User was able to change the quantity " + quantity );
 	}
+	
 
 	// second
 
@@ -126,10 +133,18 @@ public class RetailOrderSteps extends CommonUtility {
 		logger.info("User was able to click on Proceed to Checkout button successfully");
 	}
 
+//	@Then("User click on Place Your Order")
+//	public void userClickOnPlaceYourOrder() {
+//		waitTillPresence(factory.retailorderpage().placeOrderBttn);
+//		click(factory.retailorderpage().placeOrderButton);
+//		logger.info("User was able to click on Place Your Order successfully ");
+//	}
+	
+
 	@Then("User click on Place Your Order")
 	public void userClickOnPlaceYourOrder() {
-		click(factory.retailorderpage().placeOrderBttn);
-		logger.info("User was able to click on Place Your Order successfully ");
+		click(factory.retailorderpage().placeOrderButton);
+		logger.info("Place your order button was clicked");
 	}
 
 	@Then("a message should be displayed ‘Order Placed, Thanks")
