@@ -114,7 +114,7 @@ public class RetailOrderSteps extends CommonUtility {
 
 	@When("User select quantity ordering {string}")
 	public void userSelectQuantityAdding(String Quantity) {
-		selectByValue(factory.retailorderpage().quantitySelectDropdown, "5");
+		selectByVisibleText(factory.retailorderpage().quantitySelectDropdown, "5");
 		logger.info(Quantity + " number of item was selected");
 	}
 
