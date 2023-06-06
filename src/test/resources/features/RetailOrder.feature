@@ -29,7 +29,7 @@ Feature: Retail Order Page
     And User search for the item 'Apex Legends'
     And User click on the Search icon
     And User click on searched item
-    And User select the quantity '5'
+    And User select quantity ordering '5'
     And User click add to the Cart button
     Then the cart icon quantity should be change to '5'
     And User click on Cart option

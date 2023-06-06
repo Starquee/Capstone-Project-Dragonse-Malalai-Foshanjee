@@ -5524,3 +5524,88 @@
 2023-06-05 22:40:08,853 - logger_file -INFO - New account button was clicked
 2023-06-05 22:40:09,260 - logger_file -INFO - Registration info entered
 2023-06-05 22:40:09,521 - logger_file -INFO - Sign up button was clicked
+2023-06-05 23:20:16,049 - logger_file -INFO - User is on retail website
+2023-06-05 23:20:16,408 - logger_file -INFO - User clicked on signin option successfully
+2023-06-05 23:20:16,646 - logger_file -INFO - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 23:20:16,646 - logger_file -INFO - Malal@123password was entered successfully
+2023-06-05 23:20:16,926 - logger_file -INFO - user was able to login successfully
+2023-06-05 23:20:16,937 - logger_file -INFO - User logged in into the account
+2023-06-05 23:20:17,582 - logger_file -INFO - user was able to change the categgory to Electronics
+2023-06-05 23:20:17,901 - logger_file -INFO - User was able to search for the item Apex Legends
+2023-06-05 23:20:18,161 - logger_file -INFO - search button was clicked successfully
+2023-06-05 23:20:18,424 - logger_file -INFO - Searched item was clicked
+2023-06-05 23:23:04,135 - logger_file -INFO - User is on retail website
+2023-06-05 23:23:04,493 - logger_file -INFO - User clicked on signin option successfully
+2023-06-05 23:23:04,729 - logger_file -INFO - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 23:23:04,730 - logger_file -INFO - Malal@123password was entered successfully
+2023-06-05 23:23:05,022 - logger_file -INFO - user was able to login successfully
+2023-06-05 23:23:05,032 - logger_file -INFO - User logged in into the account
+2023-06-05 23:23:05,800 - logger_file -INFO - user was able to change the categgory to Electronics
+2023-06-05 23:23:06,129 - logger_file -INFO - User was able to search for the item Apex Legends
+2023-06-05 23:23:06,383 - logger_file -INFO - search button was clicked successfully
+2023-06-05 23:23:06,654 - logger_file -INFO - Searched item was clicked
+2023-06-05 23:23:06,936 - logger_file -INFO - 5 number of item was selected
+2023-06-05 23:23:07,220 - logger_file -INFO - User added to cart successfully
+2023-06-05 23:23:07,222 - logger_file -INFO - User was able to change the quantity 5
+2023-06-05 23:23:07,534 - logger_file -INFO - User was able to click on cart option successfully
+2023-06-05 23:23:07,838 - logger_file -INFO - User was able to click on Proceed to Checkout button successfully
+2023-06-05 23:24:53,034 - logger_file -INFO - User is on retail website
+2023-06-05 23:24:53,414 - logger_file -INFO - User clicked on signin option successfully
+2023-06-05 23:24:53,707 - logger_file -INFO - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 23:24:53,708 - logger_file -INFO - Malal@123password was entered successfully
+2023-06-05 23:24:53,991 - logger_file -INFO - user was able to login successfully
+2023-06-05 23:24:54,012 - logger_file -INFO - User logged in into the account
+2023-06-05 23:24:54,893 - logger_file -INFO - user was able to change the categgory to Electronics
+2023-06-05 23:24:55,258 - logger_file -INFO - User was able to search for the item Apex Legends
+2023-06-05 23:24:55,514 - logger_file -INFO - search button was clicked successfully
+2023-06-05 23:24:55,790 - logger_file -INFO - Searched item was clicked
+2023-06-05 23:24:56,057 - logger_file -INFO - 5 number of item was selected
+2023-06-05 23:24:56,324 - logger_file -INFO - User added to cart successfully
+2023-06-05 23:24:56,326 - logger_file -INFO - User was able to change the quantity 5
+2023-06-05 23:24:56,638 - logger_file -INFO - User was able to click on cart option successfully
+2023-06-05 23:24:56,928 - logger_file -INFO - User was able to click on Proceed to Checkout button successfully
+2023-06-05 23:24:57,202 - logger_file -INFO - Place your order button was clicked
+2023-06-05 23:24:57,261 - logger_file -INFO -  Payment Method added successfully
+2023-06-05 23:25:56,197 - logger_file -INFO - User is on retail website
+2023-06-05 23:25:56,587 - logger_file -INFO - User clicked on signin option successfully
+2023-06-05 23:25:56,805 - logger_file -INFO - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 23:25:56,805 - logger_file -INFO - Malal@123password was entered successfully
+2023-06-05 23:25:57,095 - logger_file -INFO - user was able to login successfully
+2023-06-05 23:25:57,107 - logger_file -INFO - User logged in into the account
+2023-06-05 23:25:57,787 - logger_file -INFO - user was able to change the categgory to Smart Home
+2023-06-05 23:25:58,209 - logger_file -INFO - User was able to search for the item kasa outdoor smart plug
+2023-06-05 23:25:58,478 - logger_file -INFO - search button was clicked successfully
+2023-06-05 23:25:58,776 - logger_file -INFO - Searched item was clicked
+2023-06-05 23:26:04,063 - logger_file -INFO - 2 was selected
+2023-06-05 23:26:04,343 - logger_file -INFO - User added to cart successfully
+2023-06-05 23:26:04,344 - logger_file -INFO - User was able to change the quantity 2
+2023-06-05 23:32:09,124 - logger_file -INFO - User is on retail website
+2023-06-05 23:32:09,502 - logger_file -INFO - User clicked on signin option successfully
+2023-06-05 23:32:09,768 - logger_file -INFO - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 23:32:09,768 - logger_file -INFO - Malal@123password was entered successfully
+2023-06-05 23:32:10,038 - logger_file -INFO - user was able to login successfully
+2023-06-05 23:32:10,045 - logger_file -INFO - User logged in into the account
+2023-06-05 23:32:11,279 - logger_file -INFO - user was able to change the categgory to Smart Home
+2023-06-05 23:32:11,740 - logger_file -INFO - User was able to search for the item kasa outdoor smart plug
+2023-06-05 23:32:12,040 - logger_file -INFO - search button was clicked successfully
+2023-06-05 23:32:12,317 - logger_file -INFO - Searched item was clicked
+2023-06-05 23:32:17,627 - logger_file -INFO - 2 was selected
+2023-06-05 23:32:17,937 - logger_file -INFO - User added to cart successfully
+2023-06-05 23:32:17,941 - logger_file -INFO - User was able to change the quantity 2
+2023-06-05 23:32:57,211 - logger_file -INFO - User is on retail website
+2023-06-05 23:32:57,618 - logger_file -INFO - User clicked on signin option successfully
+2023-06-05 23:32:57,893 - logger_file -INFO - malal.foshanjee8@tekschool.usemail was entered successfully
+2023-06-05 23:32:57,894 - logger_file -INFO - Malal@123password was entered successfully
+2023-06-05 23:32:58,172 - logger_file -INFO - user was able to login successfully
+2023-06-05 23:32:58,202 - logger_file -INFO - User logged in into the account
+2023-06-05 23:32:58,884 - logger_file -INFO - user was able to change the categgory to Electronics
+2023-06-05 23:32:59,300 - logger_file -INFO - User was able to search for the item Apex Legends
+2023-06-05 23:32:59,580 - logger_file -INFO - search button was clicked successfully
+2023-06-05 23:32:59,853 - logger_file -INFO - Searched item was clicked
+2023-06-05 23:33:00,135 - logger_file -INFO - 5 number of item was selected
+2023-06-05 23:33:00,411 - logger_file -INFO - User added to cart successfully
+2023-06-05 23:33:00,413 - logger_file -INFO - User was able to change the quantity 5
+2023-06-05 23:33:00,733 - logger_file -INFO - User was able to click on cart option successfully
+2023-06-05 23:33:01,031 - logger_file -INFO - User was able to click on Proceed to Checkout button successfully
+2023-06-05 23:33:01,317 - logger_file -INFO - Place your order button was clicked
+2023-06-05 23:33:01,380 - logger_file -INFO -  Payment Method added successfully

@@ -45,7 +45,7 @@ public class RetailOrderSteps extends CommonUtility {
 		click(factory.retailorderpage().clickOnSearchedItem);
 		logger.info("Searched item was clicked");
 	}
-	
+
 	@When("User select quantity {string}")
 	public void userSelectQuantity(String string) {
 		slowDown();
@@ -69,7 +69,6 @@ public class RetailOrderSteps extends CommonUtility {
 		// quantity);
 		// logger.info("User was able to change the quantity " + quantity );
 	}
-	
 
 	// second
 
@@ -113,11 +112,18 @@ public class RetailOrderSteps extends CommonUtility {
 		logger.info("User added to cart successfully");
 	}
 
+	@When("User select quantity ordering {string}")
+	public void userSelectQuantityAdding(String Quantity) {
+		selectByValue(factory.retailorderpage().quantitySelectDropdown, "5");
+		logger.info(Quantity + " number of item was selected");
+	}
+
 	@Then("the cart icon quantity should be change to {string}")
 	public void theCartIconQuantityShouldBeChangeTo(String quantity) {
 		String expectedQuantity = quantity;
 		String actualQuantity = "5";
 		Assert.assertEquals(expectedQuantity, actualQuantity);
+		
 		logger.info("User was able to change the quantity " + expectedQuantity);
 	}
 
@@ -139,7 +145,6 @@ public class RetailOrderSteps extends CommonUtility {
 //		click(factory.retailorderpage().placeOrderButton);
 //		logger.info("User was able to click on Place Your Order successfully ");
 //	}
-	
 
 	@Then("User click on Place Your Order")
 	public void userClickOnPlaceYourOrder() {
@@ -189,7 +194,7 @@ public class RetailOrderSteps extends CommonUtility {
 
 	@Then("a cancelation message should be displayed ‘Your Order Has Been Cancelled’")
 	public void aCancelationMessageShouldBeDisplayedYourOrderHasBeenCancelled() {
-		//Assert.assertTrue(factory.retailorderpage().orderCancleMessage.isDisplayed());
+		// Assert.assertTrue(factory.retailorderpage().orderCancleMessage.isDisplayed());
 		logger.info("User was able to see the message");
 	}
 
@@ -212,7 +217,6 @@ public class RetailOrderSteps extends CommonUtility {
 		selectByVisibleText(factory.retailorderpage().dropDownForDropOffservice, string);
 		logger.info("User was able to choose the option successfully");
 	}
-	
 
 	@When("User click on Return Order button")
 	public void userClickOnReturnOrderButton() {
@@ -222,37 +226,42 @@ public class RetailOrderSteps extends CommonUtility {
 
 	@Then("a cancelation message should be displayed {string}")
 	public void aCancelationMessageShouldBeDisplayed(String string) {
-		//Assert.assertTrue(factory.retailorderpage().orderReturnMessage.isDisplayed());
+		// Assert.assertTrue(factory.retailorderpage().orderReturnMessage.isDisplayed());
 		logger.info("User was able to see the message");
 	}
+
 	@When("User click on Review button")
 	public void userClickOnReviewButton() {
-	    click(factory.retailorderpage().reviewBttn);
-	    logger.info("User was able to click on review button successfully");
+		click(factory.retailorderpage().reviewBttn);
+		logger.info("User was able to click on review button successfully");
 	}
+
 	@When("User write Review headline {string} and {string}")
 	public void userWriteReviewHeadlineAnd(String prodect, String good) {
-	    click(factory.retailorderpage().headlineInput);
-	    sendText(factory.retailorderpage().headlineInput,prodect );
-	    click(factory.retailorderpage().descriptionInput);
-	    sendText(factory.retailorderpage().descriptionInput ,good );
-	    logger.info("User was able to write review successfully");
+		click(factory.retailorderpage().headlineInput);
+		sendText(factory.retailorderpage().headlineInput, prodect);
+		click(factory.retailorderpage().descriptionInput);
+		sendText(factory.retailorderpage().descriptionInput, good);
+		logger.info("User was able to write review successfully");
 	}
+
 	@When("User click Add your Review button")
 	public void userClickAddYourReviewButton() {
-	   click(factory.retailorderpage().addYourReview);
-	   logger.info("User was able to add review successfully");
+		click(factory.retailorderpage().addYourReview);
+		logger.info("User was able to add review successfully");
 	}
+
 	@Then("a review message should be displayed {string}")
 	public void aReviewMessageShouldBeDisplayed(String string) {
 		waitTillPresence(factory.retailorderpage().reviewAddedMessage);
 		Assert.assertTrue(factory.retailorderpage().reviewAddedMessage.isDisplayed());
 		logger.info("User was able to see the message");
 	}
-	/*@Then("a review message should be displayed {string}")
-	public void aReviewMessageShouldBeDisplayed(String string) {
-		waitTillPresence(factory.retailorderpage().reviewAddedMessage);
-		Assert.assertSame(factory.retailorderpage().reviewAddedMessage.isDisplayed(), string);
-		logger.info("User was able to see the message");
-	}*/
+	/*
+	 * @Then("a review message should be displayed {string}") public void
+	 * aReviewMessageShouldBeDisplayed(String string) {
+	 * waitTillPresence(factory.retailorderpage().reviewAddedMessage);
+	 * Assert.assertSame(factory.retailorderpage().reviewAddedMessage.isDisplayed(),
+	 * string); logger.info("User was able to see the message"); }
+	 */
 }
